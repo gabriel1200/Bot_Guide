@@ -35,6 +35,24 @@ $shift cle darius garland jarrett allen 2023
 
 ```
 ![Shift](https://media.discordapp.net/attachments/1042176198832308387/1096940938523328612/fig1.png?width=1606&height=1070)
+## $teamleader
+**What it does**
+Generates a scatterplot per synergy playtype for all teams. 
+The xaxis showcases PPP for this action, the y axis showcases frequency. Can be used for the Regular Season & PostSeason.
+The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','oreb','cut','off_screen','spot'].
+
+Span: 2014 - Present
+
+**How to use it**
+$teamleader playtype year ps[optional]
+
+**Example**
+
+```
+$teamleader iso 2023
+
+```
+![TeamLeader](https://media.discordapp.net/attachments/617877313534558208/1104188454373445672/fig1.png?width=1784&height=1070)
 
 ## $playleader
 **What it does**
