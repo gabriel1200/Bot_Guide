@@ -36,10 +36,29 @@ $shift cle darius garland jarrett allen 2023
 ```
 ![Shift](https://media.discordapp.net/attachments/1042176198832308387/1096940938523328612/fig1.png?width=1606&height=1070)
 
+## $playleader
+**What it does**
+Generates a scatterplot per synergy playtype for all players averaging 2+ possesions of that playtype per game. 
+The xaxis showcases PPP for this action, the y axis showcases frequency. Can be used for the Regular Season & PostSeason.
+The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','oreb','cut','off_screen','spot'].
+
+Span: 2005 - Present
+
+**How to use it**
+$playleader playtype year ps[optional]
+
+**Example**
+
+```
+$playleader iso 2023
+
+```
+![Playleader](https://media.discordapp.net/attachments/617877313534558208/1104049949160767590/fig1.png?width=1784&height=1070)
 
 ## $playtype
 **What it does**
 Shares the PPP & Frequencies of a players playtypes, according to Synergy classification. 
+Available for the Regular Season & PostSeason.
 
 Span: 2005 - Present
 
