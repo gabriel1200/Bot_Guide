@@ -37,6 +37,7 @@ $shift cle darius garland jarrett allen 2023
 ![Shift](https://media.discordapp.net/attachments/1042176198832308387/1096940938523328612/fig1.png?width=1606&height=1070)
 ## $teamleader
 **What it does**
+
 Generates a scatterplot per synergy playtype for all teams. 
 The xaxis showcases PPP for this action, the y axis showcases frequency. Can be used for the Regular Season & PostSeason.
 The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','oreb','cut','off_screen','spot'].
@@ -44,6 +45,7 @@ The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','
 Span: 2014 - Present
 
 **How to use it**
+
 $teamleader playtype year ps[optional]
 
 **Example**
@@ -63,6 +65,7 @@ The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','
 Span: 2005 - Present
 
 **How to use it**
+
 $playleader playtype year ps[optional]
 
 **Example**
@@ -75,6 +78,7 @@ $playleader iso 2023
 
 ## $playtype
 **What it does**
+
 Shares the PPP & Frequencies of a players playtypes, according to Synergy classification. 
 Available for the Regular Season & PostSeason.
 
@@ -108,6 +112,7 @@ $playtype james harden 2019 2020
 
 ## $shotmap
 **What it does**
+
 Creates a Goldsberry style shotmap of a player season. 
 
 Span: 1998 - Present
@@ -133,6 +138,7 @@ $shotmap tracy mcgrady 2004
 
 ## $player_card
 **What it does**
+
 Displays a players metrics over multi year periods in percentile form . 
 
 Span: 1955 - 2022 (Corresponds to the Thinking Basketball Historical Database)
@@ -148,6 +154,7 @@ $player_card joel embiid 2022 3
 ![Player Card ](https://media.discordapp.net/attachments/1045134231707336764/1095815927599202364/fig1.png?width=1145&height=1145)
 ## $team_card
 **What it does**
+
 Displays a teams performance metrics over multi year periods in percentile form. 
 
 Span: 1980 - 2022
@@ -163,6 +170,7 @@ $team_card mil 2022 4
 ![Team Card](https://media.discordapp.net/attachments/1045134231707336764/1095816188023554148/fig1.png?width=1145&height=1145)
 ## $find_clip
 **What it does**
+
 Returns the possesion video(s) closest to the time stamp.
 
 Span: 2015 - Present
@@ -187,6 +195,7 @@ https://videos.nba.com/nba/pbp/media/2022/12/28/0022200522/656/25b2f99d-d815-c9b
 _Deluxe Only_
 
 **What it does**
+
 Provides customized snapshot of a players current season from thinkingbasketball.net
 
 Span: Current Season
@@ -205,6 +214,7 @@ $player_screen Malcolm Brogdon
 _Deluxe Only_
 
 **What it does**
+
 Displays the top 10 teams by the selected team statistic(ortg,drtg,etc) for the current season, taken from the Thinking Basketball Daily Leaderboard.
 
 For metrics with two terms in the name, replace the space with an underscore. (ie 'passer rating' should be entered as 'passer_rating') 
@@ -273,6 +283,7 @@ Shows the planned time if a game is scheduled for later in the day, and shows th
 Span: Current Season
 
 **How to use it**
+
 $scoreboards
 
 **Example**
