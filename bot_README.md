@@ -14,7 +14,7 @@ Alternatively, if the game was in the current season
 $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 ```
 
-## shift
+## $shift
 
 **What it does**
 
