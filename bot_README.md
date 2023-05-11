@@ -114,9 +114,14 @@ $playtype james harden 2019 2020
 **What it does**
 
 Shares the average PPP & Frequencies of a players playtypes according to the following combined categories. 
-On Ball - Iso + PR Ball Hanlder + Post
-Play Finishing - PR Roll Man + Spot Up+ Putbacks
-Off Motion - Hand off + Off Screen + Cut
+
+On Ball: Iso + PR Ball Hanlder + Post
+
+Play Finishing: PR Roll Man + Spot Up+ Putbacks
+
+Off Motion : Hand off + Off Screen + Cut
+
+Transition
 
 Available for the Regular Season & PostSeason.
 
@@ -166,6 +171,31 @@ $shotmap tracy mcgrady 2004
 
 
 ![Shotmap](https://media.discordapp.net/attachments/1088122768672948335/1095815519304691883/Tracy_McGrady_2003-04.png?width=1333&height=1145)
+## $team_shots
+**What it does**
+
+Creates a Goldsberry style shotmap of a team season. 
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$[firstname] [lastname] [season]
+
+or
+
+$firstname] [lastname] [season] ps
+
+**Example**
+```
+$shotmap den 2023
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1106026282153680906/Denver_Nuggets_2022-23_RS.png?width=1333&height=1145)
 
 ## $player_card
 **What it does**
