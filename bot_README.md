@@ -87,15 +87,15 @@ Span: 2005 - Present
 
 **How to use it**
 
-$[firstname] [lastname] [season] 
+$playtype [firstname] [lastname] [season] 
 
 or
 
-$firstname] [lastname] [start_season] [end_season]
+$playtype firstname] [lastname] [start_season] [end_season]
 
 or
 
-$[firstname] [lastname] [season] [ps]
+$playtype [firstname] [lastname] [season] [ps]
 
 **Example**
 ```
@@ -110,6 +110,36 @@ $playtype james harden 2019 2020
 ```
 ![Playtypes](https://media.discordapp.net/attachments/1045134231707336764/1095817225820192948/playtype.jpg?width=1832&height=1145)
 
+## $playstyle
+**What it does**
+
+Shares the average PPP & Frequencies of a players playtypes according to the following combined categories. 
+On Ball - Iso + PR Ball Hanlder + Post
+Play Finishing - PR Roll Man + Spot Up+ Putbacks
+Off Motion - Hand off + Off Screen + Cut
+
+Available for the Regular Season & PostSeason.
+
+Span: 2005 - Present
+
+**How to use it**
+
+$playstyle [firstname] [lastname] [season] 
+
+or
+
+$playstyle firstname] [lastname] [start_season] [end_season]
+
+or
+
+$playstyle [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$playstyle josh hart 2023
+
+```
+![Playstyle](https://media.discordapp.net/attachments/1045134231707336764/1106025686558310491/playtype.jpg?width=1832&height=1145)
 
 ## $shotmap
 **What it does**
