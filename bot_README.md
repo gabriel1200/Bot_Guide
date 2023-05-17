@@ -217,6 +217,37 @@ $shotchange stephen curry 2021
 
 ![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359887806514/Stephen_Curry_Off__2020-21.png?width=1285&height=1104)
 
+## $shotdefense
+**What it does**
+
+Creates two Goldsberry style shotmaps. One showing the _opponents_ shotmap when the selected player is on the floor, and the other showing the opponents shooting when they're off the floor
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$firstname lastname season
+
+or
+
+$firstname lastname season ps[optional]
+
+**Example**
+```
+$shotdefense draymond green 2017 ps
+
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121174704308/Draymond_Green_On_Defense_2016-17.png?width=1285&height=1104)
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121757720626/Draymond_Green_Off_Defense_2016-17.png?width=1285&height=1104)
+
+
 ## $team_shots
 **What it does**
 
