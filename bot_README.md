@@ -187,9 +187,36 @@ $shotmap tracy mcgrady 2004
 
 ```
 
+## $shotchange
+**What it does**
+
+Creates two Goldsberry style shotmaps. One for when the selected player is on the floor, and the other for when they are off it. 
+
+Span: 1998 - Present
 
 
-![Shotmap](https://media.discordapp.net/attachments/1088122768672948335/1095815519304691883/Tracy_McGrady_2003-04.png?width=1333&height=1145)
+**How to use it**
+
+$[firstname] [lastname] [season]
+
+or
+
+$firstname] [lastname] [season] ps
+
+**Example**
+```
+$shotchange stephen curry 2021
+
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359543861288/Stephen_Curry_On__2020-21.png?width=1285&height=1104)
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359887806514/Stephen_Curry_Off__2020-21.png?width=1285&height=1104)
+
 ## $team_shots
 **What it does**
 
