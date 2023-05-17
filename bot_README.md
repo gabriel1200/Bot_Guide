@@ -55,6 +55,25 @@ $teamleader iso 2023
 
 ```
 ![TeamLeader](https://media.discordapp.net/attachments/617877313534558208/1104188454373445672/fig1.png?width=1784&height=1070)
+## $rim
+**What it does**
+
+Generates a graph comparing a team's opponent rim frequency and efficiency with their defensive anchors on the floor. (Using NBA defensive dashboard
+to establish cutoffs for qualifying players.)
+
+Span: 2014 - Present
+
+**How to use it**
+
+$rim year ps[optional]
+
+**Example**
+
+```
+$rim 2023
+
+```
+![Rim](https://media.discordapp.net/attachments/1045134231707336764/1108451023950975046/fig1.png?width=1471&height=1104)
 
 ## $playleader
 **What it does**
