@@ -34,6 +34,7 @@ $firstname] [lastname] [season] ps
 $shotmap tracy mcgrady 2004
 
 ```
+[ShotMap](https://media.discordapp.net/attachments/1088122768672948335/1108613133792186438/Tracy_McGrady_2003-04.png?width=1285&height=1104)
 
 ## $shotchange
 **What it does**
