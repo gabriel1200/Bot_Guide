@@ -82,7 +82,7 @@ Generates a scatterplot per synergy playtype for all players averaging 2+ posses
 The xaxis showcases PPP for this action, the y axis showcases frequency. Can be used for the Regular Season & PostSeason.
 The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','oreb','cut','off_screen','spot'].
 
-Span: 2005 - Present
+Span: 2014 - Present
 
 **How to use it**
 
