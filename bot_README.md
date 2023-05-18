@@ -13,6 +13,115 @@ $find_clip [team] [Year-Month-Day] [Quarter] [Minutes:Seconds]
 Alternatively, if the game was in the current season
 $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 ```
+## $shotmap
+**What it does**
+
+Creates a Goldsberry style shotmap of a player season. 
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$[firstname] [lastname] [season]
+
+or
+
+$firstname] [lastname] [season] ps
+
+**Example**
+```
+$shotmap tracy mcgrady 2004
+
+```
+
+## $shotchange
+**What it does**
+
+Creates two Goldsberry style shotmaps. One for when the selected player is on the floor, and the other for when they are off it. 
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$[firstname] [lastname] [season]
+
+or
+
+$firstname] [lastname] [season] ps
+
+**Example**
+```
+$shotchange stephen curry 2021
+
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359543861288/Stephen_Curry_On__2020-21.png?width=1285&height=1104)
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359887806514/Stephen_Curry_Off__2020-21.png?width=1285&height=1104)
+
+## $shotdefense
+**What it does**
+
+Creates two Goldsberry style shotmaps. One showing the _opponents_ shotmap when the selected player is on the floor, and the other showing the opponents shooting when they're off the floor
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$firstname lastname season
+
+or
+
+$firstname lastname season ps[optional]
+
+**Example**
+```
+$shotdefense draymond green 2017 ps
+
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121174704308/Draymond_Green_On_Defense_2016-17.png?width=1285&height=1104)
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121757720626/Draymond_Green_Off_Defense_2016-17.png?width=1285&height=1104)
+
+
+## $team_shots
+**What it does**
+
+Creates a Goldsberry style shotmap of a team season. 
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$[firstname] [lastname] [season]
+
+or
+
+$firstname] [lastname] [season] ps
+
+**Example**
+```
+$shotmap den 2023
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1106026282153680906/Denver_Nuggets_2022-23_RS.png?width=1333&height=1145)
+
 
 ## $shift
 
@@ -165,114 +274,6 @@ $playstyle josh hart 2023
 ```
 ![Playstyle](https://media.discordapp.net/attachments/1045134231707336764/1106025686558310491/playtype.jpg?width=1832&height=1145)
 
-## $shotmap
-**What it does**
-
-Creates a Goldsberry style shotmap of a player season. 
-
-Span: 1998 - Present
-
-
-**How to use it**
-
-$[firstname] [lastname] [season]
-
-or
-
-$firstname] [lastname] [season] ps
-
-**Example**
-```
-$shotmap tracy mcgrady 2004
-
-```
-
-## $shotchange
-**What it does**
-
-Creates two Goldsberry style shotmaps. One for when the selected player is on the floor, and the other for when they are off it. 
-
-Span: 1998 - Present
-
-
-**How to use it**
-
-$[firstname] [lastname] [season]
-
-or
-
-$firstname] [lastname] [season] ps
-
-**Example**
-```
-$shotchange stephen curry 2021
-
-
-```
-
-
-
-![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359543861288/Stephen_Curry_On__2020-21.png?width=1285&height=1104)
-
-
-![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359887806514/Stephen_Curry_Off__2020-21.png?width=1285&height=1104)
-
-## $shotdefense
-**What it does**
-
-Creates two Goldsberry style shotmaps. One showing the _opponents_ shotmap when the selected player is on the floor, and the other showing the opponents shooting when they're off the floor
-
-Span: 1998 - Present
-
-
-**How to use it**
-
-$firstname lastname season
-
-or
-
-$firstname lastname season ps[optional]
-
-**Example**
-```
-$shotdefense draymond green 2017 ps
-
-
-```
-
-
-
-![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121174704308/Draymond_Green_On_Defense_2016-17.png?width=1285&height=1104)
-
-
-![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121757720626/Draymond_Green_Off_Defense_2016-17.png?width=1285&height=1104)
-
-
-## $team_shots
-**What it does**
-
-Creates a Goldsberry style shotmap of a team season. 
-
-Span: 1998 - Present
-
-
-**How to use it**
-
-$[firstname] [lastname] [season]
-
-or
-
-$firstname] [lastname] [season] ps
-
-**Example**
-```
-$shotmap den 2023
-
-```
-
-
-
-![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1106026282153680906/Denver_Nuggets_2022-23_RS.png?width=1333&height=1145)
 
 ## $player_card
 **What it does**
