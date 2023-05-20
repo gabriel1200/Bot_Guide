@@ -246,9 +246,9 @@ Shares the average PPP & Frequencies of a players playtypes according to the fol
 
 On Ball: Iso + PR Ball Hanlder + Post
 
-Play Finishing: PR Roll Man + Spot Up+ Putbacks
+Play Finishing: PR Roll Man + Spot Up+ Putbacks + Cuts
 
-Off Motion : Hand off + Off Screen + Cut
+Off Motion : Hand off + Off Screen 
 
 Transition
 
