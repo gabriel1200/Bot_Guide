@@ -128,23 +128,44 @@ $shotmap den 2023
 
 **What it does**
 
-Shows a players output with and without another player. [PBP stats.](http://www.pbpstats.com/wowy-combos/nba)
-Users select two players on a team, a season[multi season is under development], and chose between
-regular season(rs) &post season(ps) data.
+Shows a players output accross various dimensions with and without another player. [PBP stats.](http://www.pbpstats.com/wowy-combos/nba)
+Users select two players on a team, and chose betwee regular season and post season data. Currently, this version does not work for players who were traded mid season. Use the oldshift command for such instances.
 
 Span: 2001 - Present
 
 **How to use it**
 
-$shift [team_acronym] firstname lastname first name lastname [season] ps-optional
+$shift player1_lastname player2_lastname season(s) ps-optional
 
 **Examples**
 
 ```
-$shift cle darius garland jarrett allen 2023
+$shift davis reaves 2023 ps
 
 ```
-![Shift](https://media.discordapp.net/attachments/1042176198832308387/1096940938523328612/fig1.png?width=1606&height=1070)
+![Shift](https://media.discordapp.net/attachments/617877313534558208/1110319230596944012/fig1.png?width=1656&height=1104)
+
+## $oldshift
+
+**What it does**
+
+Shows a players output with and without another player. [PBP stats.](http://www.pbpstats.com/wowy-combos/nba)
+
+Shows a players output accross various dimensions with and without another player. [PBP stats.](http://www.pbpstats.com/wowy-combos/nba)
+Users select two players, the season(s) they wish to include, and chose betwee regular season and post season data.  
+Span: 2001 - Present
+
+**How to use it**
+
+$oldshift [team_acronym] firstname lastname first name lastname [season] ps-optional
+
+**Examples**
+
+```
+$oldshift cle darius garland jarrett allen 2023
+
+```
+![OldShift](https://media.discordapp.net/attachments/1042176198832308387/1096940938523328612/fig1.png?width=1606&height=1070)
 ## $teamleader
 **What it does**
 
