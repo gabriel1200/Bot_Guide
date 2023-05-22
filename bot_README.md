@@ -97,7 +97,7 @@ $shotdefense draymond green 2017 ps
 ![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108477121757720626/Draymond_Green_Off_Defense_2016-17.png?width=1285&height=1104)
 
 
-## $team_shots
+## $teamshots
 **What it does**
 
 Creates a Goldsberry style shotmap of a team season. 
@@ -107,22 +107,46 @@ Span: 1998 - Present
 
 **How to use it**
 
-$[firstname] [lastname] [season]
+$teamshots [firstname] [lastname] [season]
 
 or
 
-$firstname] [lastname] [season] ps
+$teamshots [firstname] [lastname] [season] ps
 
 **Example**
 ```
-$shotmap den 2023
+$teamshots den 2023
 
 ```
-
 
 
 ![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1106026282153680906/Denver_Nuggets_2022-23_RS.png?width=1333&height=1145)
 
+
+## $teamshotd
+**What it does**
+
+Creates a Goldsberry style shotmap of shots _conceded_ by a team in a season.
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$teamshotd [firstname] [lastname] [season]
+
+or
+
+$teamshotd [firstname] [lastname] [season] ps
+
+**Example**
+```
+$teamshotd lal 2023 ps
+
+```
+
+
+![Shotmap](https://media.discordapp.net/attachments/617877313534558208/1110049157395263560/Los_Angeles_Lakers_2022-23_PS.png?width=1285&height=1104)
 
 ## $shift
 
@@ -351,6 +375,25 @@ $find_clip den 2023-1-24 4 0:07
 $find_clip DEN 12/28 4 0:07
 ```
 https://videos.nba.com/nba/pbp/media/2022/12/28/0022200522/656/25b2f99d-d815-c9b0-efc6-06b5f55cf9c7_960x540.mp4
+
+## $playerclips
+**What it does**
+
+Returns a description and(if available) video for all plays a player was recorded as being involved in.
+
+Span: 2015 - Present
+
+**How to use it**
+
+$playerclips [team] [Year-Month-Day] [Quarter] player_lastname
+
+$playerclips [team] [Month/Day] [Quarter] player_lastname (for the current season)
+
+**Examples**
+```
+$playerclips MIA 2023-5-21 2 williams
+```
+
 ## $playerscreen
 
 _Deluxe Only_
@@ -376,7 +419,7 @@ _Deluxe Only_
 
 **What it does**
 
-Displays the top 10 teams by the selected team statistic(ortg,drtg,etc) for the current season, taken from the Thinking Basketball Daily Leaderboard.
+Displays the top 10 _s by the selected team statistic(ortg,drtg,etc) for the current season, taken from the Thinking Basketball Daily Leaderboard.
 
 For metrics with two terms in the name, replace the space with an underscore. (ie 'passer rating' should be entered as 'passer_rating') 
 
