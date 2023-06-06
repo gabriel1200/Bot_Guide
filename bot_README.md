@@ -210,6 +210,34 @@ $teamleader iso 2023
 
 ```
 ![TeamLeader](https://media.discordapp.net/attachments/617877313534558208/1104188454373445672/fig1.png?width=1784&height=1070)
+
+## $threepoint
+**What it does**
+
+Shows a players three point shooting percentage and frequency on wide open, open, and tightly contested shots accross the selected seasons.
+Available for the Regular Season & PostSeason.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$threepoint [firstname] [lastname] [season] 
+
+or
+
+$threepoint firstname] [lastname] [start_season] [end_season]
+
+or
+
+$threepoint [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$threepoint stephen curry 2017
+
+```
+![threepoint](https://media.discordapp.net/attachments/1042176198832308387/1115534391880470598/threes.jpg?width=1608&height=1072)
+
 ## $rim
 **What it does**
 
