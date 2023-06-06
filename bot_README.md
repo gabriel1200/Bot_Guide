@@ -147,6 +147,26 @@ $teamshotd lal 2023 ps
 
 
 ![Shotmap](https://media.discordapp.net/attachments/617877313534558208/1110049157395263560/Los_Angeles_Lakers_2022-23_PS.png?width=1285&height=1104)
+## $flow
+**What it does**
+
+Creates a network graphic that visualizes the frequency with which players made & received passes from teammates. 
+
+Span: 2014 - Present
+
+
+**How to use it**
+
+$flow [team] [season] ps
+
+**Example**
+```
+$flow dal 2023
+
+```
+
+
+![Flow](https://media.discordapp.net/attachments/1042176198832308387/1115535704592760902/chord.png?width=1027&height=1072)
 
 ## $shift
 
