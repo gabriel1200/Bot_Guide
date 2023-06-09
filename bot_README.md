@@ -166,7 +166,7 @@ $flow dal 2023
 ```
 
 
-![Flow](https://media.discordapp.net/attachments/1042176198832308387/1115535704592760902/chord.png?width=1027&height=1072)
+![Flow](https://media.discordapp.net/attachments/1042176198832308387/1116166661028974592/chord.png?width=992&height=1072)
 
 ## $shift
 
