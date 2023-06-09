@@ -168,6 +168,26 @@ $flow dal 2023
 
 ![Flow](https://media.discordapp.net/attachments/1042176198832308387/1116166661028974592/chord.png?width=992&height=1072)
 
+## $rotation
+**What it does**
+
+Visualizes a teams rotation pattern & plus minus for the selected game.
+
+
+**How to use it**
+
+$rotation team year-month-day
+
+**Example**
+```
+$rotation mia 2023-06-01
+
+```
+
+
+![Rotation](https://media.discordapp.net/attachments/1045134231707336764/1114397859425566761/fig1.png?width=1715&height=1072)
+
+
 ## $shift
 
 **What it does**
