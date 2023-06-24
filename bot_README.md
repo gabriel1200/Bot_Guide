@@ -277,6 +277,25 @@ $threepoint stephen curry 2017
 
 ```
 ![threepoint](https://media.discordapp.net/attachments/1042176198832308387/1115534391880470598/threes.jpg?width=1608&height=1072)
+## $picks
+**What it does**
+
+Scrapes Sportrac to visualize the draft picks owned and owed by the selected team.
+
+Span: N/A
+
+**How to use it**
+
+$picks team
+
+**Example**
+
+```
+$picks okc
+
+```
+![Future Firsts](https://media.discordapp.net/attachments/1045134231707336764/1121977636344836106/0page.png?width=2036&height=1145)
+![Future Seconds](https://media.discordapp.net/attachments/1045134231707336764/1121977641835180083/1page.png?width=2036&height=1145)
 
 ## $rim
 **What it does**
