@@ -27,8 +27,15 @@ $[firstname] [lastname] [season]
 
 or
 
+$[firstname] [lastname] [season] [endseason]
+
+or
+
 $firstname] [lastname] [season] ps
 
+or
+
+$[firstname] [lastname] [season] [endseason]
 **Example**
 ```
 $shotmap tracy mcgrady 2004
@@ -296,6 +303,25 @@ $picks okc
 ```
 ![Future Firsts](https://media.discordapp.net/attachments/1045134231707336764/1121977636344836106/0page.png?width=2036&height=1145)
 ![Future Seconds](https://media.discordapp.net/attachments/1045134231707336764/1121977641835180083/1page.png?width=2036&height=1145)
+
+## $price
+**What it does**
+
+Displays a LEBRON-based estimate of a players wins above contract per team for the regular season.
+
+Span: 2010 - Present
+
+**How to use it**
+
+$price year team
+
+**Example**
+
+```
+$price mil 2017
+
+```
+![Rim](https://media.discordapp.net/attachments/1042176198832308387/1126939722753777875/price.png?width=1718&height=1145)
 
 ## $rim
 **What it does**
