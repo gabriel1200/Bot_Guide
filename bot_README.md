@@ -73,6 +73,36 @@ $shotchange stephen curry 2021
 
 ![Shotmap](https://media.discordapp.net/attachments/1045134231707336764/1108450359887806514/Stephen_Curry_Off__2020-21.png?width=1285&height=1104)
 
+## $shotchange2
+**What it does**
+
+Creates two Goldsberry-style shot maps. One for when the selected player is on the floor, and the other for when they are off it. Unlike the base shotchange command, shots by the selected player are excluded
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$[firstname] [lastname] [season]
+
+or
+
+$firstname] [lastname] [season] ps
+
+**Example**
+```
+$shotchange2 stephen curry 2021
+
+
+```
+
+
+
+![Shotmap](https://media.discordapp.net/attachments/1042176198832308387/1129115408394362971/Stephen_Curry_On__2020-21_RS_Player_Excluded.png?width=1292&height=1145)
+
+
+![Shotmap](https://media.discordapp.net/attachments/1042176198832308387/1129115408654405701/Stephen_Curry_Off__2020-21_RS.png?width=1334&height=1145)
+
 ## $shotdefense
 **What it does**
 
