@@ -463,6 +463,33 @@ $playstyle josh hart 2023
 ```
 ![Playstyle](https://media.discordapp.net/attachments/1045134231707336764/1106025686558310491/playtype.jpg?width=1832&height=1145)
 
+## $teamplay
+**What it does**
+
+Shares the PPP & Frequency of a team's play types, according to Synergy classification. 
+Available for the Regular Season & PostSeason.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$teamplay [firstname] [lastname] [season] 
+
+or
+
+$teamplay firstname] [lastname] [start_season] [end_season]
+
+or
+
+$teamplay [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$teamplay gsw 2015
+
+
+```
+![Team Playtypes](https://media.discordapp.net/attachments/617877313534558208/1135937332416086178/team_playtype.jpg?width=1754&height=1096)
 
 ## $player_card
 **What it does**
