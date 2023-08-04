@@ -490,6 +490,35 @@ $teamplay gsw 2015
 
 ```
 ![Team Playtypes](https://media.discordapp.net/attachments/617877313534558208/1135937332416086178/team_playtype.jpg?width=1754&height=1096)
+## $tracking
+**What it does**
+
+Shares a player's scoring efficiency and volume relative to other players according to various second-spectrum play classifications.
+Available for the Regular Season & post-season.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$tracking [firstname] [lastname] [season] 
+
+or
+
+$tracking firstname] [lastname] [start_season] [end_season]
+
+or
+
+$tracking [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$tracking stephen curry 2017 2018
+
+$tracking stephen curry 2017 2019 ps
+
+
+```
+![Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1137064883821756497/playtype.jpg?width=1480&height=1096)
 
 ## $player_card
 **What it does**
