@@ -466,6 +466,8 @@ $playstyle josh hart 2023
 **What it does**
 
 Shows a breakdown of a team's offensive personnel, using O-LEBRON as the y index and Bball-Index's Offensive Categories as the x-axis.
+Span: 2010 - Present
+
 
 **How to use it**
 
