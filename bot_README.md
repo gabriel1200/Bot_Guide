@@ -462,7 +462,21 @@ $playstyle josh hart 2023
 
 ```
 ![Playstyle](https://media.discordapp.net/attachments/1045134231707336764/1106025686558310491/playtype.jpg?width=1832&height=1145)
+## $teambron
+**What it does**
 
+Shows a breakdown of a team's offensive personnel, using O-LEBRON as the y index and Bball-Index's Offensive Categories as the x-axis.
+
+**How to use it**
+
+$teambron [team] [year]
+
+**Example**
+```
+$teambron ind 2014
+
+```
+![Team O-BRON](https://media.discordapp.net/attachments/617877313534558208/1137059484674572388/obronIND2014.png?width=1564&height=1094)
 ## $teamplay
 **What it does**
 
