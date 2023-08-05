@@ -1,5 +1,8 @@
-# Commands
 
+# BaksetBot Guide
+
+## Commands
+  - _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
@@ -32,9 +35,7 @@
 - [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
 - [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
-
-  - _Deluxe Only_ means you can only use the command in the deluxe channel
-## help
+## Help
 
 If you ever forget the formatting for the query commands, try typing help after the command. 
 Doing so will return the corresponding 'how to use it' for the command.
