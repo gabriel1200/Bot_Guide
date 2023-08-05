@@ -1,6 +1,6 @@
 # Basket Bot commands
 - _Deluxe Only_ means you can only use the command in the deluxe channel
-- Shotmap(https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
+- [Shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 ## help
 
 If you ever forget the formatting for the query commands, try typing help after the command. 
