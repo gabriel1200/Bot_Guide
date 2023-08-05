@@ -1,6 +1,39 @@
-# Basket Bot commands
-- _Deluxe Only_ means you can only use the command in the deluxe channel
-- [Shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
+# Commands
+
+- [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
+- [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
+- [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
+- [$shotdefense](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
+- [$teamshots](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
+- [$teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshotd)
+- [$flow](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#flow)
+- [$rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotation)
+- [$shift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shift)
+- [$oldshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oldshift)
+- [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
+- [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
+- [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
+- [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
+- [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
+- [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
+- [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
+- [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
+- [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
+- [$teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplay)
+- [$tracking](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#tracking)
+- [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
+- [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
+- [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
+- [$playerclips](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerclips)
+- [$playerscreen](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerscreen)
+- [$playerboard](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerboard)
+- [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
+- [$scoreboards](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoreboards)
+- [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
+- [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
+- [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
+
+  - _Deluxe Only_ means you can only use the command in the deluxe channel
 ## help
 
 If you ever forget the formatting for the query commands, try typing help after the command. 
