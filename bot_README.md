@@ -5,6 +5,14 @@
 
 If you ever forget the formatting for the query commands, try typing help after the command. 
 Doing so will return the corresponding 'how to use it' for the command.
+**Example**
+```
+$find_clip help
+
+$find_clip [team] [Year-Month-Day] [Quarter] [Minutes:Seconds]
+Alternatively, if the game was in the current season
+$find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
+```
 
 ## Commands
 
@@ -42,14 +50,6 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
 
-**Example**
-```
-$find_clip help
-
-$find_clip [team] [Year-Month-Day] [Quarter] [Minutes:Seconds]
-Alternatively, if the game was in the current season
-$find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
-```
 ## $shotmap
 **What it does**
 
