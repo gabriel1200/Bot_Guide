@@ -4,7 +4,7 @@
 ## Help
 
 If you ever forget the formatting for the query commands, try typing help after the command. 
-Doing so will return the corresponding 'how to use it' for the command.
+Doing so will return the command format.
 **Example**
 ```
 $find_clip help
