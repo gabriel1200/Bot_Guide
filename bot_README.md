@@ -2,7 +2,7 @@
 # BaksetBot Guide
 
 ## Commands
-  - _Deluxe Only_ means you can only use the command in the deluxe channel
+_Deluxe Only_ means you can only use the command in the deluxe channel
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
