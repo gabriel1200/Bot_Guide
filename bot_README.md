@@ -50,6 +50,32 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
 - [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
+- 
+## $playmake
+**What it does**
+
+Visualizes a players performance in various creation/playmaking proxies compared to the rest of the league. Available for the regular season and postseason.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$playmake [firstname] [lastname] [season] 
+
+or
+
+$playmake firstname] [lastname] [start_season] [end_season]
+
+or
+
+$playmake [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$playmake lebron james 2014
+
+```
+![playmake](https://media.discordapp.net/attachments/1042176198832308387/1139212443457958008/playmakelebron_james.jpg?width=1095&height=1095)
 
 ## $shotmap
 **What it does**
