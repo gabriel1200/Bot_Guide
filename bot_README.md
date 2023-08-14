@@ -542,7 +542,26 @@ $teambron [team] [year]
 $teambron ind 2014
 
 ```
-![Team O-BRON](https://media.discordapp.net/attachments/617877313534558208/1137059484674572388/obronIND2014.png?width=1564&height=1094)
+![Team O-BRON](https://media.discordapp.net/attachments/1132368217436864582/1140463969975418890/obronIND2014.png?width=1566&height=1095)
+
+## $teambrond
+**What it does**
+
+Shows a breakdown of a team's defensive personnel, using D-LEBRON as the y index and Bball-Index's Defensive Role as the x-axis.
+Span: 2014 - Present
+
+
+**How to use it**
+
+$teambrond [team] [year] [minutecutoff-optional]
+
+**Example**
+```
+$teambrond dal 2022 200
+
+```
+![Team D-BRON](https://media.discordapp.net/attachments/1132368217436864582/1140463809019003040/obronDAL2022.png?width=1566&height=1095)
+
 ## $teamplay
 **What it does**
 
