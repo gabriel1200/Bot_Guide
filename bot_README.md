@@ -38,6 +38,7 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
 - [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
 - [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
+- [$teambrond](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambrond)
 - [$teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplay)
 - [$tracking](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#tracking)
 - [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
