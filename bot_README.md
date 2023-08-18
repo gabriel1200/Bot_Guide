@@ -379,6 +379,34 @@ $threepoint stephen curry 2017
 
 ```
 ![threepoint](https://media.discordapp.net/attachments/1042176198832308387/1115534391880470598/threes.jpg?width=1608&height=1072)
+
+## $teamthrees
+**What it does**
+Visualizes teams shooting on wide-open, open, and tightly contested shots relative to the rest of the league using Second Spectrum data
+
+* 'tight' combines the tight and very tight categories on Second Spectrum into one category.
+
+Span: 2014 - Present
+
+
+**How to use it**
+
+$teamthrees [teamacronym] [year]
+
+or
+
+$teamshots [firstname] [lastname] [season] ps
+
+**Example**
+```
+$teamthrees den 2023 ps
+
+```
+
+
+![teamthrees](https://media.discordapp.net/attachments/617877313534558208/1142101762937978910/DEN20232023True.png?width=1094&height=1094)
+
+
 ## $picks
 **What it does**
 
