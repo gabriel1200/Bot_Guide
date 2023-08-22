@@ -375,10 +375,10 @@ $threepoint [firstname] [lastname] [season] [ps]
 
 **Example**
 ```
-$threepoint stephen curry 2017
+$threepoint chris paul 2022 2023
 
 ```
-![threepoint](https://media.discordapp.net/attachments/1042176198832308387/1115534391880470598/threes.jpg?width=1608&height=1072)
+![threepoint](https://media.discordapp.net/attachments/617877313534558208/1143625356004294747/threes.jpg?width=1641&height=1094)
 
 ## $teamthrees
 **What it does**
