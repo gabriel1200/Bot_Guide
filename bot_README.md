@@ -76,7 +76,7 @@ $playmake [firstname] [lastname] [season] [ps]
 $playmake lebron james 2015 2017 ps
 
 ```
-![playmake](https://media.discordapp.net/attachments/1088122768672948335/1141030933068271717/playmakelebron_james.jpg?width=1095&height=1095)
+![playmake](https://media.discordapp.net/attachments/1132368217436864582/1145944467883442197/playmakelebron_james.jpg?width=1094&height=1094)
 
 ## $shotmap
 **What it does**
