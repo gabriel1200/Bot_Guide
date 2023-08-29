@@ -30,6 +30,7 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$shift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shift)
 - [$oldshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oldshift)
 - [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
+- [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
 - [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
@@ -404,7 +405,7 @@ $teamthrees den 2023 ps
 ```
 
 
-![teamthrees](https://media.discordapp.net/attachments/617877313534558208/1142101762937978910/DEN20232023True.png?width=1094&height=1094)
+![teamthrees](https://media.discordapp.net/attachments/1132368217436864582/1145944920792772639/DEN20232023True.png?width=1094&height=1094)
 
 
 ## $picks
