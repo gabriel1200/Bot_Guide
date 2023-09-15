@@ -379,7 +379,7 @@ $threepoint [firstname] [lastname] [season] [ps]
 $threepoint chris paul 2022 2023
 
 ```
-![threepoint](https://media.discordapp.net/attachments/617877313534558208/1143625356004294747/threes.jpg?width=1641&height=1094)
+![threepoint](https://media.discordapp.net/attachments/617888289801895966/1152352109648412803/threes.jpg?width=1645&height=1096)
 
 ## $teamthrees
 **What it does**
