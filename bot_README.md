@@ -449,6 +449,46 @@ $price tor 2019
 ```
 ![Price](https://media.discordapp.net/attachments/617877313534558208/1154505049909772360/tor2019price.png?width=1600&height=1066)
 
+## $contracts
+**What it does**
+
+A variant of the price command. Displays LEBRON WAR for the selected team season, along with the salary expected win contribution of a player((Player Salary/Average Cost of a Win).
+
+Span: 2010 - Present
+
+**How to use it**
+
+$contracts team year
+
+**Example**
+
+```
+$contracts den 2023
+
+```
+![Contracts](https://media.discordapp.net/attachments/1088122768672948335/1154446132836052992/den2023contracts.png?width=1600&height=1066)
+
+## $salary
+**What it does**
+
+A variant of the price command. Visualizes the WAR(Wins above Replacement) and WAC(Wins Above Contract) for players on the selected team.
+
+Wins Above Contract(WAC) =  WAR  -(Player Salary/Average Cost of a Win)
+
+Span: 2010 - Present
+
+**How to use it**
+
+$price team year
+
+**Example**
+
+```
+$price gsw 2015
+
+```
+![Salary](https://media.discordapp.net/attachments/617877313534558208/1154237655836528740/gsw2015salary.png?width=1600&height=1066)
+
 ## $rim
 **What it does**
 
