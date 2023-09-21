@@ -431,21 +431,23 @@ $picks okc
 ## $price
 **What it does**
 
-Displays a LEBRON-based estimate of a players wins above contract per team for the regular season.
+Displays a LEBRON-based estimate of a player's wins above contract per team for the regular season.
+
+Wins Above Contract(WAC) =  WAR  -(Player Salary/Average Cost of a Win)
 
 Span: 2010 - Present
 
 **How to use it**
 
-$price year team
+$price team year
 
 **Example**
 
 ```
-$price mil 2017
+$price tor 2019
 
 ```
-![Rim](https://media.discordapp.net/attachments/1042176198832308387/1126939722753777875/price.png?width=1718&height=1145)
+![Price](https://media.discordapp.net/attachments/617877313534558208/1154505049909772360/tor2019price.png?width=1600&height=1066)
 
 ## $rim
 **What it does**
