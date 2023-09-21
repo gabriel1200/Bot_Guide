@@ -34,6 +34,8 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
 - [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
+- [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
+- [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
 - [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
