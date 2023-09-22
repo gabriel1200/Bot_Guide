@@ -1,5 +1,5 @@
 
-# BaksetBot Guide
+# BasketBot Guide
 
 ## Help
 
