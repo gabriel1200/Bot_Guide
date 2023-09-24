@@ -938,7 +938,7 @@ $wowy [team_acronym] [names] [years] [season type] [common*-optional*]
 ```
 $wowy lal kobe bryant pau gasol 2009 ps
 ```
-![Wowy](https://media.discordapp.net/attachments/617888289801895966/1095555436339535892/fig1.png?width=1832&height=1145)
+![Wowy](https://media.discordapp.net/attachments/1088122768672948335/1155394149302947950/fig1.png?width=1753&height=1096)
 
 ## $teamseason
 
