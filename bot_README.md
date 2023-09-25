@@ -1,4 +1,4 @@
-![image](https://github.com/gabriel1200/Bot_Guide/assets/12866526/9ce55e7a-5a4e-4b85-9671-4bbfe2a67be6)
+
 # BasketBot Guide
 
 ## Help
