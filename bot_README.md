@@ -616,7 +616,7 @@ $teambron [team] [year] [minutecutoff-optional]
 $teambron cle 2016
 
 ```
-![Team O-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155727548521664592/obronCLE2016.png?width=1370&height=1096)
+![Team O-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155727954173775872/obronCLE2016.png?width=1370&height=1096)
 
 ## $teambrond
 **What it does**
@@ -634,7 +634,7 @@ $teambrond [team] [year] [minutecutoff-optional]
 $teambrond dal 2022 200
 
 ```
-![Team D-BRON](https://media.discordapp.net/attachments/1088122768672948335/1155726904607912027/obronWAS2023.png?width=1370&height=1096)
+![Team D-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155728280691937290/obronDAL2022.png?width=1370&height=1096)
 ## $teamplay
 **What it does**
 
