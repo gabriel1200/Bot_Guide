@@ -1,4 +1,4 @@
-
+![image](https://github.com/gabriel1200/Bot_Guide/assets/12866526/9ce55e7a-5a4e-4b85-9671-4bbfe2a67be6)
 # BasketBot Guide
 
 ## Help
@@ -609,14 +609,14 @@ Span: 2010 - Present
 
 **How to use it**
 
-$teambron [team] [year]
+$teambron [team] [year] [minutecutoff-optional]
 
 **Example**
 ```
-$teambron ind 2014
+$teambron cle 2016
 
 ```
-![Team O-BRON](https://media.discordapp.net/attachments/1132368217436864582/1140463969975418890/obronIND2014.png?width=1566&height=1095)
+![Team O-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155727548521664592/obronCLE2016.png?width=1370&height=1096)
 
 ## $teambrond
 **What it does**
@@ -634,8 +634,7 @@ $teambrond [team] [year] [minutecutoff-optional]
 $teambrond dal 2022 200
 
 ```
-![Team D-BRON](https://media.discordapp.net/attachments/1132368217436864582/1140463809019003040/obronDAL2022.png?width=1566&height=1095)
-
+![Team D-BRON](https://media.discordapp.net/attachments/1088122768672948335/1155726904607912027/obronWAS2023.png?width=1370&height=1096)
 ## $teamplay
 **What it does**
 
