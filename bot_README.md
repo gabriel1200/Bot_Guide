@@ -49,7 +49,6 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
 - [$playerclips](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerclips)
 - [$playerscreen](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerscreen)
-- [$playerboard](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerboard)
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
 - [$scoreboards](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoreboards)
 - [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
@@ -784,17 +783,6 @@ $playerscreen [first_name] [last_name]
 $player_screen Malcolm Brogdon
 ```
 ![Player Screen](https://media.discordapp.net/attachments/638116254720327680/1095773509621387264/player_snip.jpg?width=1386&height=966)
-## $playerboard
-
-_Deluxe Only_
-
-**What it does**
-
-Displays the top 10 _s by the selected team statistic(ortg,drtg,etc) for the current season, taken from the Thinking Basketball Daily Leaderboard.
-
-For metrics with two terms in the name, replace the space with an underscore. (ie 'passer rating' should be entered as 'passer_rating') 
-
-Span: Current Season
 
 **How to use it**
 
