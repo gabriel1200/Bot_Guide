@@ -559,10 +559,10 @@ $playtype james harden 2019 ps
 
 $playtype james harden 2019 2020 ps
 
-$playtype james harden 2019 2020
+$playtype james harden 2019 2022
 
 ```
-![Playtypes](https://media.discordapp.net/attachments/1088122768672948335/1154884293013819442/playtype.jpg?width=1753&height=1096)
+![Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1159177888881451090/playtype.jpg?ex=651ef009&is=651d9e89&hm=207b66132e2fd4e790c4a8f56794285607c685e9d5b5682ad15723fc884a5e19&=&width=1820&height=1137)
 
 ## $playstyle
 **What it does**
@@ -598,7 +598,7 @@ $playstyle [firstname] [lastname] [season] [ps]
 $playstyle josh hart 2023
 
 ```
-![Playstyle](https://media.discordapp.net/attachments/1045134231707336764/1106025686558310491/playtype.jpg?width=1832&height=1145)
+![Playstyle](https://media.discordapp.net/attachments/1132368217436864582/1159178261318873148/playtype.jpg?ex=651ef061&is=651d9ee1&hm=42ac926d0f5cc2471c3acecd265051e2318592d96fd2187b9c91bfabacd79808&=&width=1820&height=1137)
 ## $teambron
 **What it does**
 
