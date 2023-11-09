@@ -80,6 +80,34 @@ $playmake lebron james 2015 2017 ps
 ```
 ![playmake](https://media.discordapp.net/attachments/1132368217436864582/1145944467883442197/playmakelebron_james.jpg?width=1094&height=1094)
 
+## $dribbleshot 
+**What it does**
+
+Showcases a player's volume and efficiency on shot types compared to other players, with the shot types broken up by the number of dribbles prior to the shot.
+
+**How to use it**
+
+$dribbleshot [firstname] [lastname] [season]
+
+or
+
+$dribbleshot [firstname] [lastname] [season] [endseason]
+
+or
+
+$dribbleshot [firstname] [lastname] [season] ps
+
+or
+
+$dribbleshot [firstname] [lastname] [season] [endseason] ps
+
+**Example**
+```
+$dribbleshot joel embiid 2021 2023
+
+```
+https://media.discordapp.net/attachments/1088122768672948335/1172252673316233296/joel_embiiddribbles.jpg?ex=655fa460&is=654d2f60&hm=2a3aef385b2e1ec4b141fd0023a4f4463962bf328df3dd72c58148cd6bceaf56&=&width=1620&height=1080
+
 ## $shotmap
 **What it does**
 
@@ -90,19 +118,19 @@ Span: 1998 - Present
 
 **How to use it**
 
-$[firstname] [lastname] [season]
+$shotmap [firstname] [lastname] [season]
 
 or
 
-$[firstname] [lastname] [season] [endseason]
+$shotmap [firstname] [lastname] [season] [endseason]
 
 or
 
-$firstname] [lastname] [season] ps
+$shotmap [firstname] [lastname] [season] ps
 
 or
 
-$[firstname] [lastname] [season] [endseason]
+$shotmap [firstname] [lastname] [season] [endseason] ps
 **Example**
 ```
 $shotmap tracy mcgrady 2004
