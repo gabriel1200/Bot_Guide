@@ -19,6 +19,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 
 _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
+- [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
@@ -106,7 +107,7 @@ $dribbleshot [firstname] [lastname] [season] [endseason] ps
 $dribbleshot joel embiid 2021 2023
 
 ```
-https://media.discordapp.net/attachments/1088122768672948335/1172252673316233296/joel_embiiddribbles.jpg?ex=655fa460&is=654d2f60&hm=2a3aef385b2e1ec4b141fd0023a4f4463962bf328df3dd72c58148cd6bceaf56&=&width=1620&height=1080
+![dribbleshot](https://media.discordapp.net/attachments/1088122768672948335/1172252673316233296/joel_embiiddribbles.jpg?ex=655fa460&is=654d2f60&hm=2a3aef385b2e1ec4b141fd0023a4f4463962bf328df3dd72c58148cd6bceaf56&=&width=1620&height=1080)
 
 ## $shotmap
 **What it does**
