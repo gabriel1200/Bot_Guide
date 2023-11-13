@@ -19,6 +19,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 
 _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
+- [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
 - [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
