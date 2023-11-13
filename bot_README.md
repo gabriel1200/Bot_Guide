@@ -58,7 +58,7 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 ## $playmake
 **What it does**
 
-Visualizes a players performance in various creation/playmaking proxies compared to the rest of the league. Available for the regular season and postseason.
+Visualizes a player's performance in various creation/playmaking proxies compared to the rest of the league. Available for the regular season and postseason.
 
 Span: 2014 - Present
 
@@ -80,6 +80,32 @@ $playmake lebron james 2015 2017 ps
 
 ```
 ![playmake](https://media.discordapp.net/attachments/1132368217436864582/1145944467883442197/playmakelebron_james.jpg?width=1094&height=1094)
+
+## $scoring
+**What it does**
+
+Showcases a player's scoring volume and efficiency compared to the league for the selected time period. Available for the regular season and post season.
+
+Span: 1974 - Present
+
+**How to use it**
+
+$scoring [firstname] [lastname] [season] 
+
+or
+
+$scoring firstname] [lastname] [start_season] [end_season]
+
+or
+
+$scoring [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$scoring joel embiid 2021 2023
+
+```
+![scoring](https://media.discordapp.net/attachments/1088122768672948335/1173756534321324194/joel_embiidscoring.jpg?ex=65651cf5&is=6552a7f5&hm=f94b5cdbce5531cd4725a5d273dd7748d274c5911bdb86bb96213772850d8ea3&=&width=1512&height=1080)
 
 ## $dribbleshot 
 **What it does**
