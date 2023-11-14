@@ -29,8 +29,6 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshotd)
 - [$flow](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#flow)
 - [$rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotation)
-- [$shift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shift)
-- [$oldshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oldshift)
 - [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
@@ -52,13 +50,16 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
 ## Commands (TB Exclusive)
 The following commands are **exclusive ** to the Thinking Basketball Discord
+
 - [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
 - [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
 - [$playerscreen](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerscreen)
 - [$scoreboards](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoreboards)
 - [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
 - [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
-- 
+
+- [$shift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shift)
+- [$oldshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oldshift)
 ## $playmake
 **What it does**
 
