@@ -39,10 +39,8 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
-- [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
-- [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
-- [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
+
 - [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
 - [$teambrond](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambrond)
 - [$teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplay)
@@ -50,7 +48,12 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
 - [$playerclips](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerclips)
-## Commands (TB)
+## Commands (TB Partial Exclusive)
+The following commands only go back to the 2013-14 season outside the TB discord.
+- [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
+- [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
+- [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
+## Commands (TB Exclusive)
 The following commands are **exclusive ** to the Thinking Basketball Discord
 - [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
 - [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
