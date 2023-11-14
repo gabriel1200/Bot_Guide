@@ -17,7 +17,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 
 ## Commands
 
-_Deluxe Only_ means you can only use the command in the deluxe channel
+
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
 - [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
 - [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
@@ -40,21 +40,23 @@ _Deluxe Only_ means you can only use the command in the deluxe channel
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
+- [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
 - [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
 - [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
 - [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
 - [$teambrond](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambrond)
 - [$teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplay)
 - [$tracking](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#tracking)
-- [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
-- [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
+- [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
 - [$playerclips](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerclips)
+## Commands (TB)
+The following commands are **exclusive ** to the Thinking Basketball Discord
+- [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
+- [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
 - [$playerscreen](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerscreen)
-- [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
 - [$scoreboards](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoreboards)
 - [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
-- [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
 ## $playmake
 **What it does**
