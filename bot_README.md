@@ -48,6 +48,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
 - [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
+- [$teamshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshift)
 ## Commands (TB Exclusive)
 The following commands are **exclusive ** to the Thinking Basketball Discord
 
@@ -372,6 +373,23 @@ $shift davis reaves 2023 ps
 
 ```
 ![Shift](https://media.discordapp.net/attachments/617877313534558208/1110319230596944012/fig1.png?width=1656&height=1104)
+## $teamshift
+
+**What it does**
+Shows how a teams outputs across various dimensions changes when a player is on & off the floor.
+Span: 2001 - Present
+
+**How to use it**
+
+$teamshift team firstname lastname season(s) ps-optional
+
+**Examples**
+
+```
+$teamshift mia lebron james 2012 2013 2014 ps
+
+```
+![TeamShift](https://media.discordapp.net/attachments/1154859219896516679/1176656817892368526/lebron_james20122014fig1.png?ex=656faa0e&is=655d350e&hm=c3a2781c93f48981f99a8f6c810f2b841dad27da3d56ba0e203ae77c5cab1694&=&width=1728&height=1080)
 
 ## $oldshift
 
@@ -444,7 +462,7 @@ $threepoint chris paul 2022 2023
 
 ## $teamthrees
 **What it does**
-Visualizes teams shooting on wide-open, open, and tightly contested shots relative to the rest of the league using Second Spectrum data
+Visualizes teams shooting on wide-open, open, and tightly contested three-point shots relative to the rest of the league using Second Spectrum data
 
 * 'tight' combines the tight and very tight categories on Second Spectrum into one category.
 
@@ -466,7 +484,7 @@ $teamthrees den 2023 ps
 ```
 
 
-![teamthrees](https://media.discordapp.net/attachments/1132368217436864582/1145944920792772639/DEN20232023True.png?width=1094&height=1094)
+![teamthrees](https://media.discordapp.net/attachments/1088122768672948335/1176657130896506910/DEN20232023True.png?ex=656faa59&is=655d3559&hm=d0387959bf296efabafb8a38cda7d18fe2150bb505f10b15cd9c202132cf3363&=&width=1339&height=1080)
 
 
 ## $picks
