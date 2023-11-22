@@ -50,7 +50,8 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
 - [$teamshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshift)
 ## Commands (TB Exclusive)
-The following commands are **exclusive ** to the Thinking Basketball Discord
+The following commands are exclusive to the Thinking Basketball Discord. 
+https://www.patreon.com/ThinkingBasketball/
 
 - [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
 - [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
