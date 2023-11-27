@@ -559,7 +559,7 @@ Span: 2010 - Present
 
 **How to use it**
 
-$price team year
+$salary team year
 
 **Example**
 
