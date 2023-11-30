@@ -31,6 +31,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotation)
 - [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
+- [$oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oppthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
 - [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
@@ -463,7 +464,7 @@ $threepoint chris paul 2022 2023
 
 ## $teamthrees
 **What it does**
-Visualizes teams shooting on wide-open, open, and tightly contested three-point shots relative to the rest of the league using Second Spectrum data
+Visualizes team shooting on wide-open, open, and tightly contested three-point shots relative to the rest of the league using Second Spectrum data
 
 * 'tight' combines the tight and very tight categories on Second Spectrum into one category.
 
@@ -486,6 +487,31 @@ $teamthrees den 2023 ps
 
 
 ![teamthrees](https://media.discordapp.net/attachments/1088122768672948335/1176657130896506910/DEN20232023True.png?ex=656faa59&is=655d3559&hm=d0387959bf296efabafb8a38cda7d18fe2150bb505f10b15cd9c202132cf3363&=&width=1339&height=1080)
+
+## $oppthrees
+**What it does**
+Visualizes team _opponent_ shooting on wide-open, open, and tightly contested three-point shots relative to the rest of the league using Second Spectrum data
+
+* 'tight' combines the tight and very tight categories on Second Spectrum into one category.
+
+Span: 2014 - Present
+
+
+**How to use it**
+
+$oppthrees [teamacronym] [year]
+
+or
+
+$teamshots [firstname] [lastname] [season] ps
+
+**Example**
+```
+$oppthrees mil 2023 ps
+
+```
+
+![oppthrees](https://media.discordapp.net/attachments/1154859219896516679/1179852631145971823/MIL20232023True.png?ex=657b4a63&is=6568d563&hm=a22fa45d5c4b509102aaafec67e4a1431c689cf5ed9f713475e0b3d42be8a7b0&=&format=webp&quality=lossless&width=1393&height=1123)
 
 
 ## $picks
