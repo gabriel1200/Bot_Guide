@@ -20,6 +20,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
 - [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
+- [$scoring team](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring-team)
 - [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
