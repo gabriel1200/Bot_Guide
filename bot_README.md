@@ -1083,3 +1083,25 @@ $teamseason hou 2018 2019
 ```
 
 ![Team Season](https://media.discordapp.net/attachments/1045134231707336764/1095821466597072906/fig1.png?width=1600&height=533)
+
+
+## $goalcont
+**What it does**
+
+Compares a player's goal contributions per 90 to other players throughout Europe's top 5 Leagues.
+Span: 2018- Present
+
+**How to use it**
+
+$goalcont name year
+
+or
+
+$goalcont name start_year end_year
+
+**Example**
+```
+$goalcont lionel messi 2019
+
+```
+![goalcont](https://media.discordapp.net/attachments/1154859219896516679/1180690505240162464/lionel_messi20192019scoring.jpg?ex=657e56b8&is=656be1b8&hm=05451d999b0576b32822e198eb5aee39a7f396d48387d43f7b37c1ac5ed183f7&=&format=webp&width=1573&height=1123)
