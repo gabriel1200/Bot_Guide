@@ -63,6 +63,10 @@ https://www.patreon.com/ThinkingBasketball/
 
 - [$shift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shift)
 - [$oldshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oldshift)
+
+## Commands (Soccer)
+- [$goalcont](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#goalcont)
+
 ## $playmake
 **What it does**
 
