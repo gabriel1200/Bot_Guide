@@ -22,6 +22,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
 - [$scoring team](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring-team)
 - [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
+- [$shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotzone)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
