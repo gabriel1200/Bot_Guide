@@ -150,9 +150,12 @@ $scoring team gsw 2022 2023
 ![scoring-team](https://media.discordapp.net/attachments/1132368217436864582/1180684813884215346/team_gswscoring.jpg?ex=657e516b&is=656bdc6b&hm=a485d37c9f7bac0743240e133830922110ba596360c723a95061323bb3dc70ef&=&format=webp&width=1573&height=1123)
 
 ## $dribbleshot 
+
 **What it does**
 
 Showcases a player's volume and efficiency on shot types compared to other players, with the shot types broken up by the number of dribbles prior to the shot.
+
+Span: 2014 - Present
 
 **How to use it**
 
@@ -176,6 +179,35 @@ $dribbleshot joel embiid 2021 2023
 
 ```
 ![dribbleshot](https://media.discordapp.net/attachments/1088122768672948335/1172252673316233296/joel_embiiddribbles.jpg?ex=655fa460&is=654d2f60&hm=2a3aef385b2e1ec4b141fd0023a4f4463962bf328df3dd72c58148cd6bceaf56&=&width=1620&height=1080)
+
+## $shotzone
+**What it does**
+
+Showcases a player's volume and efficiency on free throw, rim, short midrange, long midrange, and 3-point shot attempts(excluding heaves). 
+
+Span: 2001 - Present
+**How to use it**
+
+$shotzone [firstname] [lastname] [season]
+
+or
+
+$shotzone [firstname] [lastname] [season] [endseason]
+
+or
+
+$shotzone [firstname] [lastname] [season] ps
+
+or
+
+$shotzone [firstname] [lastname] [season] [endseason] ps
+
+**Example**
+```
+$shotzone shai gilgeous-alexander 2024
+
+```
+![dribbleshot](https://media.discordapp.net/attachments/1088122768672948335/1183141650638323762/shai_gilgeous-alexander20242024shotzone.jpg?ex=65874187&is=6574cc87&hm=5f682c6fd26c7cc1e33878b72040ae4bda1fe57d42978424ee8e1e378ac3f343&=&format=webp&width=1686&height=1123)
 
 ## $shotmap
 **What it does**
