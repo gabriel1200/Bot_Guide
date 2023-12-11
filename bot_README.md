@@ -33,6 +33,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotation)
 - [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
+- [$threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threespread)
 - [$oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oppthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
@@ -580,6 +581,30 @@ $oppthrees mil 2023 ps
 
 ![oppthrees](https://media.discordapp.net/attachments/1154859219896516679/1179852631145971823/MIL20232023True.png?ex=657b4a63&is=6568d563&hm=a22fa45d5c4b509102aaafec67e4a1431c689cf5ed9f713475e0b3d42be8a7b0&=&format=webp&quality=lossless&width=1393&height=1123)
 
+## $threespread
+**What it does**
+Visualizes three-point volume and accuracy for all players above designated thresholds( at least 10 MPG and 1 3PA per game) on the selected team
+
+
+Span: 2001 - Present
+
+
+**How to use it**
+
+$threespread [teamacronym] [year]
+
+or
+
+$threespread [firstname] [lastname] [season] ps
+
+**Example**
+```
+$threespread tor 2023
+
+```
+
+
+![threespread](https://media.discordapp.net/attachments/617877313534558208/1183882853935743027/TOR20232023Falsethreespread.png?ex=6589f3d3&is=65777ed3&hm=9402f5b6fd5b7d947e72ca87b3c7753ba3ebb9345e0ae7707f930df5e324576d&=&format=webp&quality=lossless&width=1511&height=1079)
 
 ## $picks
 **What it does**
