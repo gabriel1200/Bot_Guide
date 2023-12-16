@@ -22,6 +22,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
 - [$scoring team](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring-team)
 - [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
+- [$jumpshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#jumpshot)
 - [$shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotzone)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
@@ -155,7 +156,7 @@ $scoring team gsw 2022 2023
 
 **What it does**
 
-Showcases a player's volume and efficiency on shot types compared to other players, with the shot types broken up by the number of dribbles prior to the shot.
+Showcases a player's volume and efficiency on shot types compared to other players, with the shot types broken up by the number of dribbles before the shot.
 
 Span: 2014 - Present
 
@@ -181,6 +182,37 @@ $dribbleshot joel embiid 2021 2023
 
 ```
 ![dribbleshot](https://media.discordapp.net/attachments/1088122768672948335/1172252673316233296/joel_embiiddribbles.jpg?ex=655fa460&is=654d2f60&hm=2a3aef385b2e1ec4b141fd0023a4f4463962bf328df3dd72c58148cd6bceaf56&=&width=1620&height=1080)
+
+## $jumpshot
+
+**What it does**
+
+Showcases a player's volume and efficiency on jump shots compared to other players(either pullups or catch-and-shoot threes), with the shot types broken up by the number of dribbles before the shot.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$jumpshot [firstname] [lastname] [season]
+
+or
+
+$jumpshot [firstname] [lastname] [season] [endseason]
+
+or
+
+$jumpshot [firstname] [lastname] [season] ps
+
+or
+
+$jumpshot [firstname] [lastname] [season] [endseason] ps
+
+**Example**
+```
+$jumpshot stephen curry 2017 2019 ps
+
+```
+![jumpshot](https://media.discordapp.net/attachments/1154859219896516679/1185422130117095555/stephen_curry20172019dribblesjumpshot.jpg?ex=658f8d63&is=657d1863&hm=6a864b6a67c795cd1947d60a05d2f8a1e5e0306a285f4b3d7f1f6f09a0b37445&=&format=webp&width=1619&height=1079)
 
 ## $shotzone
 **What it does**
