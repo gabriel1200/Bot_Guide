@@ -33,6 +33,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$flow](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#flow)
 - [$rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotation)
 - [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
+- [$teamleaderd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threespread)
 - [$oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oppthrees)
@@ -46,6 +47,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
 - [$teambrond](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambrond)
 - [$teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplay)
+- [$teamplayd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplayd)
 - [$tracking](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#tracking)
 - [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
@@ -561,6 +563,27 @@ $teamleader iso 2023
 ```
 ![TeamLeader](https://media.discordapp.net/attachments/617877313534558208/1104188454373445672/fig1.png?width=1784&height=1070)
 
+## $teamleaderd
+**What it does**
+
+Generates a scatterplot per synergy play type for all teams on defense.
+The xaxis showcases defensive PPP for this action, the y axis showcases the frequency with which the defense faced this playtype. Can be used for the Regular Season & PostSeason.
+The playtypes included are ['pr_ball','iso','tran','pr_roll','post','hand_off','oreb','cut','off_screen','spot'].
+
+Span: 2014 - Present
+
+**How to use it**
+
+$teamleaderd playtype year ps[optional]
+
+**Example**
+
+```
+$teamleaderd iso 2024
+
+```
+![teamLeaderd](https://media.discordapp.net/attachments/1132368217436864582/1186428821369532536/Regular_Season_Isolation_Defense_.png?ex=659336f1&is=6580c1f1&hm=b0e834b55bfa208a14347f34b03fe9aaee268d22fd98dba0f297b61937206a09&=&format=webp&quality=lossless&width=1619&height=1079)
+
 ## $threepoint
 **What it does**
 
@@ -892,22 +915,22 @@ $teambrond dal 2022 200
 ## $teamplay
 **What it does**
 
-Shares the PPP & Frequency of a team's play types, according to Synergy classification. 
+Shares the PPP and frequency of a team's play types relative to other teams, according to Synergy classification. 
 Available for the Regular Season & PostSeason.
 
 Span: 2014 - Present
 
 **How to use it**
 
-$teamplay [firstname] [lastname] [season] 
+$teamplay [team_acronym] [season]  [season] 
 
 or
 
-$teamplay firstname] [lastname] [start_season] [end_season]
+$teamplay [team_acronym] [start_season] [end_season]
 
 or
 
-$teamplay [firstname] [lastname] [season] [ps]
+$teamplay [team_acronym] [season] [ps]
 
 **Example**
 ```
@@ -916,6 +939,35 @@ $teamplay gsw 2015
 
 ```
 ![Team Playtypes](https://media.discordapp.net/attachments/617877313534558208/1135937332416086178/team_playtype.jpg?width=1754&height=1096)
+
+## $teamplayd
+**What it does**
+
+Shares the _Defensive_ PPP and frequency of a team's play types relative to other teams, according to Synergy classification. 
+Available for the Regular Season and postseason.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$teamplayd [team_acronym] [season]  [season] 
+
+or
+
+$teamplayd [team_acronym] [start_season] [end_season]
+
+or
+
+$teamplayd [team_acronym] [season] [ps]
+
+**Example**
+```
+$teamplayd gsw 2022
+
+
+```
+![Team Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1186429461571321996/Golden_State_Warriors_2022Defense20222022team_playtyped.jpg?ex=6593378a&is=6580c28a&hm=7b6a4c1eadf73277dfc766d9a6c08541c456d6d33129bce8bb3c481b735c8a19&=&format=webp&width=1727&height=1079)
+
 ## $tracking
 **What it does**
 
