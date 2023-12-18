@@ -17,7 +17,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 
 ## Commands
 
-
+- [$trending](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#trending)
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
 - [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
 - [$scoring team](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring-team)
@@ -70,7 +70,33 @@ https://www.patreon.com/ThinkingBasketball/
 
 ## Commands (Soccer)
 - [$goalcont](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#goalcont)
+## $trending
+**What it does**
 
+Visualizes a player's performance in the selected span of games(with 10 as the default if no number is selected) in comparison to the season-long averages for the rest of the league
+Users can select between 3 different styles of graph, general(focused on normal box score stats with a few additions), play(focused on tracking stats related to passing and creation) and
+score(focused on scoring volume and efficiency by zone).
+
+Span: N/A
+
+**How to use it**
+
+$trending [firstname] [lastname] [graphtype] 
+
+or
+
+$trending firstname] [lastname] [start_season] [end_season]
+
+or
+
+$trending [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$trending stephen curry 15
+
+```
+![trending](https://media.discordapp.net/attachments/1132368217436864582/1186169050733215814/stephen_curry15generaltrending.jpg?ex=65924503&is=657fd003&hm=ed80a01b2a31802c84142862514d19cf7b2aa9adf4b54c9b0cd9421023d51844&=&format=webp&width=1349&height=1079)
 ## $playmake
 **What it does**
 
