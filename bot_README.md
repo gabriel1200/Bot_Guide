@@ -36,6 +36,8 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$teamleaderd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threespread)
+- [$playspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread)
+- [$dplayspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread)
 - [$oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oppthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
@@ -661,6 +663,54 @@ $oppthrees mil 2023 ps
 ```
 
 ![oppthrees](https://media.discordapp.net/attachments/1154859219896516679/1179852631145971823/MIL20232023True.png?ex=657b4a63&is=6568d563&hm=a22fa45d5c4b509102aaafec67e4a1431c689cf5ed9f713475e0b3d42be8a7b0&=&format=webp&quality=lossless&width=1393&height=1123)
+
+## $playspread
+**What it does**
+Visualizes the frequency and efficiency of teams' scoring attempts by Synergy Playtype.
+
+Span: 2014 - Present
+
+
+**How to use it**
+
+$playspread [teamacronym] [year]
+
+or
+
+$playspread [teamacronym] [start_year] [end_year] [ps]
+
+**Example**
+```
+$playspread den 2023
+
+```
+
+
+![playspread](https://media.discordapp.net/attachments/1132368217436864582/1186460156393963601/DEN20232023Falseplayspread.png?ex=65935420&is=6580df20&hm=a1c16a62fd5b96a5c2a4af91f0a16771bac7366d4a03599e989d3a5c87f44cd9&=&format=webp&quality=lossless&width=1511&height=1079)
+
+## $playspread
+**What it does**
+Visualizes the frequency and efficiency of _opponent_ scoring attempts by Synergy Playtype.
+
+Span: 2014 - Present
+
+
+**How to use it**
+
+$dplayspread [teamacronym] [year]
+
+or
+
+$dplayspread [teamacronym] [start_year] [end_year] [ps]
+
+**Example**
+```
+$dplayspread bos 2022
+
+```
+
+
+![dplayspread](https://media.discordapp.net/attachments/1132368217436864582/1186460519872344125/BOS20222022Falsedplayspread.png?ex=65935477&is=6580df77&hm=f3c49cebaad665282152b57592b2d71a08f62627d35dd06af56bc7777753ff37&=&format=webp&quality=lossless&width=1511&height=1079)
 
 ## $threespread
 **What it does**
