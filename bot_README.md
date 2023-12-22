@@ -44,6 +44,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
 - [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
+- [$series](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#series)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
 - [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
@@ -817,6 +818,24 @@ $price gsw 2015
 
 ```
 ![Salary](https://media.discordapp.net/attachments/617877313534558208/1154237655836528740/gsw2015salary.png?width=1600&height=1066)
+
+## $series
+**What it does**
+
+Visualizes a player's performance in the selected playoff series via various metrics vs other players in those playoffs, as well as their averages during that span.
+
+Span: 2014 -2025
+
+**How to use it**
+
+$trending [firstname] [lastname] [opponent] 
+
+
+**Example**
+```
+$series stephen curry bos
+```
+![trending](https://media.discordapp.net/attachments/1154859219896516679/1187873758338359388/stephen_curry20222022series.jpg?ex=659878a5&is=658603a5&hm=67c5db7476b3b5ad7c7893db42e21ec23e2c7ad8358a9c9e8276884ebab5c4c2&=&format=webp&width=1350&height=1080)
 
 ## $rim
 **What it does**
