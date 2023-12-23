@@ -688,8 +688,8 @@ $playspread den 2023
 
 
 ![playspread](https://media.discordapp.net/attachments/1132368217436864582/1186460156393963601/DEN20232023Falseplayspread.png?ex=65935420&is=6580df20&hm=a1c16a62fd5b96a5c2a4af91f0a16771bac7366d4a03599e989d3a5c87f44cd9&=&format=webp&quality=lossless&width=1511&height=1079)
-
-## $playspread
+![playspread2](https://media.discordapp.net/attachments/1132368217436864582/1188265282091888660/DEN20232023Falsescatter_spread.png?ex=6599e548&is=65877048&hm=e8e8602365e3b359dd65bafe95d1cb34709fa673bee60fcdb2c354d23268be7c&=&format=webp&quality=lossless&width=1735&height=1080)
+## $dplayspread
 **What it does**
 Visualizes the frequency and efficiency of _opponent_ scoring attempts by Synergy Playtype.
 
@@ -712,7 +712,7 @@ $dplayspread bos 2022
 
 
 ![dplayspread](https://media.discordapp.net/attachments/1132368217436864582/1186460519872344125/BOS20222022Falsedplayspread.png?ex=65935477&is=6580df77&hm=f3c49cebaad665282152b57592b2d71a08f62627d35dd06af56bc7777753ff37&=&format=webp&quality=lossless&width=1511&height=1079)
-
+![dplayspread2](https://media.discordapp.net/attachments/1132368217436864582/1188265540192587797/BOS20222022Falsedscatter_spread.png?ex=6599e585&is=65877085&hm=c19f9fa877bf46b7205bbb51407dad9e7923cdd690be4b8f0e2f6960a9240d57&=&format=webp&quality=lossless&width=1735&height=1080)
 ## $threespread
 **What it does**
 Visualizes three-point volume and accuracy for all players above designated thresholds( at least 10 MPG and 1 3PA per game) on the selected team
