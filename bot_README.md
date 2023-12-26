@@ -65,7 +65,6 @@ https://www.patreon.com/ThinkingBasketball/
 
 - [$player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#player_card)
 - [$team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#team_card)
-- [$playerscreen](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerscreen)
 - [$scoreboards](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoreboards)
 - [$season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#season)
 - [$teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamseason)
@@ -1140,25 +1139,6 @@ $playerclips [team] [Month/Day] [Quarter] player_lastname (for the current seaso
 $playerclips MIA 2023-5-21 2 williams
 ```
 
-## $playerscreen
-
-_Deluxe Only_
-
-**What it does**
-
-Provides customized snapshot of a players current season from thinkingbasketball.net
-
-Span: Current Season
-
-**How to use it**
-
-$playerscreen [first_name] [last_name] 
-
-**Example**
-```
-$player_screen Malcolm Brogdon
-```
-![Player Screen](https://media.discordapp.net/attachments/638116254720327680/1095773509621387264/player_snip.jpg?width=1386&height=966)
 
 **How to use it**
 
