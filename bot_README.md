@@ -61,6 +61,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
 - [$teamshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshift)
+- [$rapm](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rapm)
 ## Commands (TB Exclusive)
 The following commands are exclusive to the Thinking Basketball Discord. 
 https://www.patreon.com/ThinkingBasketball/
@@ -523,6 +524,27 @@ $teamshift mia lebron james 2012 2013 2014 ps
 
 ```
 ![TeamShift](https://media.discordapp.net/attachments/1154859219896516679/1176656817892368526/lebron_james20122014fig1.png?ex=656faa0e&is=655d350e&hm=c3a2781c93f48981f99a8f6c810f2b841dad27da3d56ba0e203ae77c5cab1694&=&width=1728&height=1080)
+
+
+## $rapm
+
+**What it does**
+Showcases a players Orapm and Rapm during the selected spans, as well as the rapm's of their highest minute teammates. Available in 1-year, 3-year, and 5-year stretches.
+
+Span: 2010 -2023
+
+**How to use it**
+
+$rapm team firstname lastname start_year end_year[if multiseason]
+
+**Examples**
+
+```
+$rapm gsw stephen curry 2015 2019
+
+```
+![orapm](https://media.discordapp.net/attachments/1154859219896516679/1190372292866355360/GSW20152019stephen_curryorapm.png?ex=65a18f96&is=658f1a96&hm=b2b17c6700f751c230fa7df59081fc7b8d98d7a6c3ffc4c47724fedad40a3fa2&=&format=webp&quality=lossless&width=936&height=1123)
+![drapm](https://media.discordapp.net/attachments/1154859219896516679/1190372295013847142/GSW20152019stephen_currydrapm.png?ex=65a18f97&is=658f1a97&hm=d822b0702b5dab9d50c5b398300aa8f5115bf46b0e7c47930f9e74c80692880a&=&format=webp&quality=lossless&width=936&height=1123)
 
 ## $oldshift
 
