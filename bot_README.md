@@ -37,7 +37,9 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threespread)
 - [$playspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread)
+- [$playspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread2)
 - [$dplayspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread)
+- [$dplayspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread2)
 - [$oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oppthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
@@ -684,9 +686,40 @@ $playspread den 2023
 
 ```
 
-
 ![playspread](https://media.discordapp.net/attachments/1132368217436864582/1186460156393963601/DEN20232023Falseplayspread.png?ex=65935420&is=6580df20&hm=a1c16a62fd5b96a5c2a4af91f0a16771bac7366d4a03599e989d3a5c87f44cd9&=&format=webp&quality=lossless&width=1511&height=1079)
-![playspread2](https://media.discordapp.net/attachments/1132368217436864582/1188265282091888660/DEN20232023Falsescatter_spread.png?ex=6599e548&is=65877048&hm=e8e8602365e3b359dd65bafe95d1cb34709fa673bee60fcdb2c354d23268be7c&=&format=webp&quality=lossless&width=1735&height=1080)
+![2playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265282091888660/DEN20232023Falsescatter_spread.png?ex=6599e548&is=65877048&hm=e8e8602365e3b359dd65bafe95d1cb34709fa673bee60fcdb2c354d23268be7c&=&format=webp&quality=lossless&width=1735&height=1080)
+
+
+## $playspread2
+
+**What it does**
+Same functionality as play spread, but with play types grouped into the following categories
+
+On Ball: Iso + PR Ball Hanlder + Post
+
+Play Finishing: PR Roll Man + Spot Up+ Putbacks + Cuts
+
+Off Motion : Hand off + Off Screen 
+
+Transition
+Span: 2014 - Present
+
+
+**How to use it**
+
+$playspread2 [teamacronym] [year]
+
+or
+
+$playspread2 [teamacronym] [start_year] [end_year] [ps]
+
+**Example**
+```
+$playspread2 bos 2024
+
+```
+[playspread2](https://media.discordapp.net/attachments/1045134231707336764/1190324940931604550/BOS20242024Falsescatter_spread2.png?ex=65a1637d&is=658eee7d&hm=653bdee9fb1c864d7adba7b10d05f00eed8dbdc831ed9bd7e4f8c00f47f0f8e7&=&format=webp&quality=lossless&width=1686&height=1123)
+
 ## $dplayspread
 **What it does**
 Visualizes the frequency and efficiency of _opponent_ scoring attempts by Synergy Playtype.
@@ -708,9 +741,41 @@ $dplayspread bos 2022
 
 ```
 
-
 ![dplayspread](https://media.discordapp.net/attachments/1132368217436864582/1186460519872344125/BOS20222022Falsedplayspread.png?ex=65935477&is=6580df77&hm=f3c49cebaad665282152b57592b2d71a08f62627d35dd06af56bc7777753ff37&=&format=webp&quality=lossless&width=1511&height=1079)
-![dplayspread2](https://media.discordapp.net/attachments/1132368217436864582/1188265540192587797/BOS20222022Falsedscatter_spread.png?ex=6599e585&is=65877085&hm=c19f9fa877bf46b7205bbb51407dad9e7923cdd690be4b8f0e2f6960a9240d57&=&format=webp&quality=lossless&width=1735&height=1080)
+![2playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265540192587797/BOS20222022Falsedscatter_spread.png?ex=6599e585&is=65877085&hm=c19f9fa877bf46b7205bbb51407dad9e7923cdd690be4b8f0e2f6960a9240d57&=&format=webp&quality=lossless&width=1735&height=1080)
+
+
+## $playspread2
+
+**What it does**
+Same functionality as dplayspread, but with play types grouped into the following categories
+
+On Ball: Iso + PR Ball Hanlder + Post
+
+Play Finishing: PR Roll Man + Spot Up+ Putbacks + Cuts
+
+Off Motion : Hand off + Off Screen 
+
+Transition
+Span: 2014 - Present
+
+
+**How to use it**
+
+$playspread2 [teamacronym] [year]
+
+or
+
+$playspread2 [teamacronym] [start_year] [end_year] [ps]
+
+**Example**
+```
+$playspread2 bos 2024
+
+```
+[dplayspread2](https://media.discordapp.net/attachments/1045134231707336764/1190325327843577977/BOS20242024Falsedscatter_spread2.png?ex=65a163d9&is=658eeed9&hm=7802a8719d433a2dd6ca4790f56fc73d67b0555e832f78bd136260a27c69aae8&=&format=webp&quality=lossless&width=1686&height=1123)
+
+
 ## $threespread
 **What it does**
 Visualizes three-point volume and accuracy for all players above designated thresholds( at least 10 MPG and 1 3PA per game) on the selected team
