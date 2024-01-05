@@ -546,7 +546,8 @@ $rapm gsw stephen curry 2015 2019
 ```
 ![orapm](https://media.discordapp.net/attachments/1154859219896516679/1190372292866355360/GSW20152019stephen_curryorapm.png?ex=65a18f96&is=658f1a96&hm=b2b17c6700f751c230fa7df59081fc7b8d98d7a6c3ffc4c47724fedad40a3fa2&=&format=webp&quality=lossless&width=936&height=1123)
 ![drapm](https://media.discordapp.net/attachments/1154859219896516679/1190372295013847142/GSW20152019stephen_currydrapm.png?ex=65a18f97&is=658f1a97&hm=d822b0702b5dab9d50c5b398300aa8f5115bf46b0e7c47930f9e74c80692880a&=&format=webp&quality=lossless&width=936&height=1123)
-## $rapm
+
+## $lebron
 
 **What it does**
 Showcases a players OLEBRON and DLEBRON during the selected spans, as well as the LEBRONS of their highest minute teammates in the Regular Season. (For multiyear stretches, the displayed OLEBRON/DLEBRON is a possesion weighted average of a players OLEBRON and DLEBRON during the selected range.
