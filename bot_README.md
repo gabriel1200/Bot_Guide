@@ -62,6 +62,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
 - [$teamshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshift)
 - [$rapm](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rapm)
+- [$lebron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#lebron)
 ## Commands (TB Exclusive)
 The following commands are exclusive to the Thinking Basketball Discord. 
 https://www.patreon.com/ThinkingBasketball/
@@ -545,7 +546,24 @@ $rapm gsw stephen curry 2015 2019
 ```
 ![orapm](https://media.discordapp.net/attachments/1154859219896516679/1190372292866355360/GSW20152019stephen_curryorapm.png?ex=65a18f96&is=658f1a96&hm=b2b17c6700f751c230fa7df59081fc7b8d98d7a6c3ffc4c47724fedad40a3fa2&=&format=webp&quality=lossless&width=936&height=1123)
 ![drapm](https://media.discordapp.net/attachments/1154859219896516679/1190372295013847142/GSW20152019stephen_currydrapm.png?ex=65a18f97&is=658f1a97&hm=d822b0702b5dab9d50c5b398300aa8f5115bf46b0e7c47930f9e74c80692880a&=&format=webp&quality=lossless&width=936&height=1123)
+## $rapm
 
+**What it does**
+Showcases a players OLEBRON and DLEBRON during the selected spans, as well as the LEBRONS of their highest minute teammates in the Regular Season. (For multiyear stretches, the displayed OLEBRON/DLEBRON is a possesion weighted average of a players OLEBRON and DLEBRON during the selected range.
+Span: 2010 -2023
+
+**How to use it**
+
+$lebron team firstname lastname start_year end_year[if multiseason ]
+
+**Examples**
+
+```
+$lebron gsw stephen curry 2015 2016
+
+```
+![olebron](https://media.discordapp.net/attachments/1132368217436864582/1192959134144938034/GSW20152016stephen_curryolebron.png?ex=65aaf8c5&is=659883c5&hm=3dfe2cfff8844609f7f5e95324532bc2e0f29aa2518432b14eeae59d4ee5fc88&=&format=webp&quality=lossless&width=898&height=1123)
+![dlebron](https://media.discordapp.net/attachments/1132368217436864582/1192959134400786462/GSW20152016stephen_currydlebron.png?ex=65aaf8c5&is=659883c5&hm=8fc2f41b79aa68d066e4982a055a03c1af09a51561b3e66985476dd23ca74684&=&format=webp&quality=lossless&width=898&height=1123)
 ## $oldshift
 
 **What it does**
