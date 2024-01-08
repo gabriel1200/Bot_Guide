@@ -43,6 +43,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#oppthrees)
 - [$threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threepoint)
 - [$picks](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#picks)
+- [$books](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#books)
 - [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
 - [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
@@ -861,6 +862,24 @@ $picks okc
 ```
 ![Future Firsts](https://media.discordapp.net/attachments/1045134231707336764/1121977636344836106/0page.png?width=2036&height=1145)
 ![Future Seconds](https://media.discordapp.net/attachments/1045134231707336764/1121977641835180083/1page.png?width=2036&height=1145)
+
+## $books
+**What it does**
+
+Visualizes a team's salary obligations until the 2028-29 season.
+Span: N/A
+
+**How to use it**
+
+$books team
+
+**Example**
+
+```
+$books pho
+
+```
+![books](https://media.discordapp.net/attachments/1019642087299358733/1193993741405519972/PHObooks.jpg?ex=65aebc53&is=659c4753&hm=d168bf0a91d885ce861c78d5a8438868b3007ce056c5f228931abe05ac6c9387&=&format=webp&width=1123&height=1123)
 
 ## $price
 **What it does**
