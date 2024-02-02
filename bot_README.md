@@ -36,6 +36,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$teamleaderd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threespread)
+- [$matchups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#matchups)
 - [$playspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread)
 - [$playspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread2)
 - [$dplayspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread)
@@ -843,6 +844,23 @@ $threespread tor 2023
 
 ![threespread](https://media.discordapp.net/attachments/617877313534558208/1183882853935743027/TOR20232023Falsethreespread.png?ex=6589f3d3&is=65777ed3&hm=9402f5b6fd5b7d947e72ca87b3c7753ba3ebb9345e0ae7707f930df5e324576d&=&format=webp&quality=lossless&width=1511&height=1079)
 
+## $matchups
+**What it does**
+Visualizes the height of a teams defenders compared to the opponents they are guarding in the selected season
+
+Span: 2018 - Present
+**How to use it**
+
+$matchups [team_acronym] [season]
+
+**Example**
+```
+$matchups bos 2024
+
+```
+
+
+![matchups](https://media.discordapp.net/attachments/1088122768672948335/1202806769026469958/BOS2024Falsematchups.png?ex=65cecc18&is=65bc5718&hm=81475e5a8ac204e2fbac3f2073ddcdf6d49bdf9453c7088a5825e0903075f1fb&=&format=webp&quality=lossless&width=1728&height=1080)
 ## $picks
 **What it does**
 
