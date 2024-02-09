@@ -59,6 +59,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wowy)
 - [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
 - [$playerclips](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerclips)
+- [$spread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#spread)
 - [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
 - [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
@@ -1018,6 +1019,35 @@ $playleader iso 2023
 
 ```
 ![Playleader](https://media.discordapp.net/attachments/617877313534558208/1104049949160767590/fig1.png?width=1784&height=1070)
+
+## $spread
+**What it does**
+
+Shares the PPP & Frequencies of a players synergy playtypes, in scatter plot form.
+
+
+Available for the Regular Season & PostSeason. Inclusion cutoffs are an average of one play type per game, and at least 20 games played per season during the selected regular season span or at least 4 games played for the selected post season span.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$spread [firstname] [lastname] [season] 
+
+or
+
+$spread firstname] [lastname] [start_season] [end_season]
+
+or
+
+$spread [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$spread kevin durant 2012 2013
+```
+![Spread](https://media.discordapp.net/attachments/1132368217436864582/1205564345547886672/kevin_durant20122013player_spread.jpg?ex=65d8d44a&is=65c65f4a&hm=d2c353e6191e60d51893c5f60820d1f0d078af097ea83477873233aab4bdcaec&=&format=webp&width=1620&height=1080)
+
 
 ## $playtype
 **What it does**
