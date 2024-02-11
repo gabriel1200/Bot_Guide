@@ -861,7 +861,7 @@ $matchups bos 2024
 ```
 
 
-![matchups](https://media.discordapp.net/attachments/1088122768672948335/1202806769026469958/BOS2024Falsematchups.png?ex=65cecc18&is=65bc5718&hm=81475e5a8ac204e2fbac3f2073ddcdf6d49bdf9453c7088a5825e0903075f1fb&=&format=webp&quality=lossless&width=1728&height=1080)
+![Matchups](https://media.discordapp.net/attachments/1042176198832308387/1206306235079463032/BOS2024Falsematchups.png?ex=65db873a&is=65c9123a&hm=351eea4cc11d96972e580735a4160776139a74d9a5bf16b6454ea563845930a5&=&format=webp&quality=lossless&width=1728&height=1080)
 ## $picks
 **What it does**
 
