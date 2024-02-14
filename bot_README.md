@@ -53,6 +53,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
 - [$teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambron)
 - [$teambrond](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teambrond)
+- [$rotations](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotations)
 - [$teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplay)
 - [$teamplayd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamplayd)
 - [$tracking](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#tracking)
@@ -1152,6 +1153,25 @@ $teambrond dal 2022 200
 
 ```
 ![Team D-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155728280691937290/obronDAL2022.png?width=1370&height=1096)
+
+## $rotation
+**What it does**
+
+Visualizes a teams rotation pattern for the selected time range
+Span: 2001-Present
+
+
+**How to use it**
+
+$rotation team year [start_date]-optional [end_date]-optional [ps]-optional
+
+**Example**
+```
+$teambron cle 2016
+
+```
+![Rotation](https://media.discordapp.net/attachments/617877313534558208/1207398512845922415/rotationslal2022.png?ex=65df807d&is=65cd0b7d&hm=b1498e725a7ddc9a29e77cdf6223542d016c8bbf39552b67e70f76356891aeea&=&format=webp&quality=lossless&width=1620&height=1080)
+
 ## $teamplay
 **What it does**
 
