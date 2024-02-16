@@ -1154,7 +1154,7 @@ $teambrond dal 2022 200
 ```
 ![Team D-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155728280691937290/obronDAL2022.png?width=1370&height=1096)
 
-## $rotation
+## $rotations
 **What it does**
 
 Visualizes a teams rotation pattern for the selected time range
@@ -1167,10 +1167,10 @@ $rotation team year [start_date]-optional [end_date]-optional [ps]-optional
 
 **Example**
 ```
-$teambron cle 2016
+$rotations gsw 01/30 2/20
 
 ```
-![Rotation](https://media.discordapp.net/attachments/617877313534558208/1207398512845922415/rotationslal2022.png?ex=65df807d&is=65cd0b7d&hm=b1498e725a7ddc9a29e77cdf6223542d016c8bbf39552b67e70f76356891aeea&=&format=webp&quality=lossless&width=1620&height=1080)
+![Rotations](https://media.discordapp.net/attachments/617888289801895966/1208138856533065779/rotationsgsw2024.png?ex=65e231fd&is=65cfbcfd&hm=6acfbcee1aeff9bcf38600a8f86cfe3e7f616aa881d4c53a63d8f8258a1e5225&=&format=webp&quality=lossless&width=787&height=525)
 
 ## $teamplay
 **What it does**
