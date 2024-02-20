@@ -1167,10 +1167,10 @@ $rotation team year [start_date]-optional [end_date]-optional [ps]-optional
 
 **Example**
 ```
-$rotations gsw 01/30 2/20
+$rotations gsw 2024 01/30 2/20
 
 ```
-![Rotations](https://media.discordapp.net/attachments/617888289801895966/1208138856533065779/rotationsgsw2024.png?ex=65e231fd&is=65cfbcfd&hm=6acfbcee1aeff9bcf38600a8f86cfe3e7f616aa881d4c53a63d8f8258a1e5225&=&format=webp&quality=lossless&width=787&height=525)
+![Rotations](https://media.discordapp.net/attachments/1088122768672948335/1209575952581922876/rotationsgsw2024.png?ex=65e76c63&is=65d4f763&hm=51fe2cd4852b1286fae2000a81011d20169efa7d72190ee90245db39f7a638c2&=&format=webp&quality=lossless&width=787&height=525)
 
 ## $teamplay
 **What it does**
