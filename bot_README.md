@@ -489,7 +489,7 @@ $rotation mia 2023-06-01
 ```
 
 
-![Rotation](https://media.discordapp.net/attachments/1045134231707336764/1114397859425566761/fig1.png?width=1715&height=1072)
+![Rotation](https://media.discordapp.net/attachments/1132368217436864582/1211380888596906094/fig1.png?ex=65edfd5e&is=65db885e&hm=15e4a2e4e8a5533a52d3d4620593695e401ad96a83abf127024fac79ea3c5892&=&format=webp&quality=lossless&width=1726&height=1078)
 
 
 ## $shift
@@ -511,7 +511,7 @@ $shift player1_lastname player2_lastname season(s) ps-optional
 $shift davis reaves 2023 ps
 
 ```
-![Shift](https://media.discordapp.net/attachments/617877313534558208/1110319230596944012/fig1.png?width=1656&height=1104)
+![Shift](https://media.discordapp.net/attachments/1132368217436864582/1211380976257863790/Anthony_DavisAustin_ReavesLALfig1.png?ex=65edfd73&is=65db8873&hm=3a7f26a91adc274bcc04a6595cdd27ee79221d7e96a1d8e4869fb79190ab0a2e&=&format=webp&quality=lossless&width=1620&height=1080)
 ## $teamshift
 
 **What it does**
@@ -1081,7 +1081,7 @@ $playtype james harden 2019 2020 ps
 $playtype james harden 2019 2022
 
 ```
-![Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1159177888881451090/playtype.jpg?ex=651ef009&is=651d9e89&hm=207b66132e2fd4e790c4a8f56794285607c685e9d5b5682ad15723fc884a5e19&=&width=1820&height=1137)
+![Playtypes](https://media.discordapp.net/attachments/1088122768672948335/1211381571907747840/James_Harden_2019-202220192022playtype.jpg?ex=65edfe01&is=65db8901&hm=5687a4e260fdf08b15d26ff440c4e8f20a7e9f45004dfa646a739566c0fc2a70&=&format=webp&width=1726&height=1078)
 
 ## $playstyle
 **What it does**
@@ -1117,7 +1117,7 @@ $playstyle [firstname] [lastname] [season] [ps]
 $playstyle josh hart 2023
 
 ```
-![Playstyle](https://media.discordapp.net/attachments/1132368217436864582/1159178261318873148/playtype.jpg?ex=651ef061&is=651d9ee1&hm=42ac926d0f5cc2471c3acecd265051e2318592d96fd2187b9c91bfabacd79808&=&width=1820&height=1137)
+![Playstyle](https://media.discordapp.net/attachments/1088122768672948335/1211381701268217957/Josh_Hart_202320232023playtype.jpg?ex=65edfe1f&is=65db891f&hm=e429d31c9b1488075b46b1b8af2a903495b3583b379d38fff699b3b4a42f283c&=&format=webp&width=1726&height=1078)
 ## $teambron
 **What it does**
 
@@ -1134,7 +1134,7 @@ $teambron [team] [year] [minutecutoff-optional]
 $teambron cle 2016
 
 ```
-![Team O-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155727954173775872/obronCLE2016.png?width=1370&height=1096)
+![Team O-BRON](https://media.discordapp.net/attachments/1088122768672948335/1211381815613333565/obronCLE2016.png?ex=65edfe3b&is=65db893b&hm=4d1af7f52b235e7bce86674b62aeaa45a1ef2afd683a363b7cb9976c97ff13e3&=&format=webp&quality=lossless&width=1350&height=1080)
 
 ## $teambrond
 **What it does**
@@ -1149,10 +1149,9 @@ $teambrond [team] [year] [minutecutoff-optional]
 
 **Example**
 ```
-$teambrond dal 2022 200
-
+$teambrond min 2024
 ```
-![Team D-BRON](https://media.discordapp.net/attachments/1154859219896516679/1155728280691937290/obronDAL2022.png?width=1370&height=1096)
+![Team D-BRON](https://media.discordapp.net/attachments/1132368217436864582/1211382128248627250/obronMIN2024.png?ex=65edfe85&is=65db8985&hm=d489099734c7ae5a2505d5afd574f48d298bc64fabcc7ec438e9c700471ff75e&=&format=webp&quality=lossless&width=1350&height=1080)
 
 ## $rotations
 **What it does**
