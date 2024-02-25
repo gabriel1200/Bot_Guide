@@ -470,7 +470,7 @@ $flow dal 2023
 ```
 
 
-![Flow](https://media.discordapp.net/attachments/1088122768672948335/1211386220328779797/chord.png?ex=65ee0255&is=65db8d55&hm=20e88db7bfff76a39768d24133150a806ee76f672bc53d722502fe22f632b44f&=&format=webp&quality=lossless&width=475&height=525)
+![Flow](https://media.discordapp.net/attachments/1088122768672948335/1211386220328779797/chord.png?ex=65ee0255&is=65db8d55&hm=20e88db7bfff76a39768d24133150a806ee76f672bc53d722502fe22f632b44f&=&format=webp&quality=lossless&width=950&height=1050)
 
 ## $rotation
 **What it does**
@@ -609,7 +609,7 @@ $teamleader playtype year ps[optional]
 $teamleader iso 2023
 
 ```
-![TeamLeader](https://media.discordapp.net/attachments/617877313534558208/1104188454373445672/fig1.png?width=1784&height=1070)
+![TeamLeader](https://media.discordapp.net/attachments/1132368217436864582/1211392334386700369/Regular_Season_Isolation.png?ex=65ee0807&is=65db9307&hm=aeeef351df692bc76b7156969eb1a0e6561c3ca58a1eeb79e307005e437717ea&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $teamleaderd
 **What it does**
