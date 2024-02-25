@@ -528,7 +528,7 @@ $teamshift team firstname lastname season(s) ps-optional
 $teamshift mia lebron james 2012 2013 2014 ps
 
 ```
-![TeamShift](https://media.discordapp.net/attachments/1154859219896516679/1176656817892368526/lebron_james20122014fig1.png?ex=656faa0e&is=655d350e&hm=c3a2781c93f48981f99a8f6c810f2b841dad27da3d56ba0e203ae77c5cab1694&=&width=1728&height=1080)
+![TeamShift](https://media.discordapp.net/attachments/1132368217436864582/1211391411115786280/lebron_james20122014fig1.png?ex=65ee072a&is=65db922a&hm=708762eb445a5851ac68829bd1f0b4d806cb64ecfb094696d68ff53ca0d59b1f&=&format=webp&quality=lossless&width=1726&height=1078)
 
 
 ## $rapm
@@ -731,8 +731,8 @@ $playspread den 2023
 
 ```
 
-![playspread](https://media.discordapp.net/attachments/1132368217436864582/1186460156393963601/DEN20232023Falseplayspread.png?ex=65935420&is=6580df20&hm=a1c16a62fd5b96a5c2a4af91f0a16771bac7366d4a03599e989d3a5c87f44cd9&=&format=webp&quality=lossless&width=1511&height=1079)
-![2playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265282091888660/DEN20232023Falsescatter_spread.png?ex=6599e548&is=65877048&hm=e8e8602365e3b359dd65bafe95d1cb34709fa673bee60fcdb2c354d23268be7c&=&format=webp&quality=lossless&width=1735&height=1080)
+
+![playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265282091888660/DEN20232023Falsescatter_spread.png?ex=6599e548&is=65877048&hm=e8e8602365e3b359dd65bafe95d1cb34709fa673bee60fcdb2c354d23268be7c&=&format=webp&quality=lossless&width=1735&height=1080)
 
 
 ## $playspread2
@@ -763,7 +763,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-[playspread2](https://media.discordapp.net/attachments/1132368217436864582/1211388578450641007/BOS20242024Falsescatter_spread2.png?ex=65ee0487&is=65db8f87&hm=f97ad015b3ed20eb5be577da18f13dd7d6f0f358d568f6b82fd43ed7a4cb1533&=&format=webp&quality=lossless&width=1620&height=1080)
+[playspread2](https://media.discordapp.net/attachments/1132368217436864582/1211390484908478515/BOS20242024Falsescatter_spread2.png?ex=65ee064e&is=65db914e&hm=2b4779c8fb06221a77471740048e8e37171cf050a6c1d193ee852cadcf60eea8&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $dplayspread
 **What it does**
@@ -1270,7 +1270,7 @@ $[firstname] [lastname] [end year] [span]
 ```
 $player_card joel embiid 2022 3
 ```
-![Player Card ](https://media.discordapp.net/attachments/1045134231707336764/1095815927599202364/fig1.png?width=1145&height=1145)
+![Player Card ](https://media.discordapp.net/attachments/1132368217436864582/1211391125160460339/fig1.png?ex=65ee06e6&is=65db91e6&hm=78fbe09cc5e322fe5640852f0e2d030d17a6d4557b3a965e01ebf01eb059fcc7&=&format=webp&quality=lossless&width=1080&height=1080)
 ## $team_card
 **What it does**
 
@@ -1286,7 +1286,7 @@ $[team_acronym] [end_year] [span]
 ```
 $team_card mil 2022 4
 ```
-![Team Card](https://media.discordapp.net/attachments/1045134231707336764/1095816188023554148/fig1.png?width=1145&height=1145)
+![Team Card](https://media.discordapp.net/attachments/1132368217436864582/1211391036262191175/fig1.png?ex=65ee06d1&is=65db91d1&hm=ff9bf98f9d0109648a4fecbe5883a5d19c0ba8ff4e1293762793fe0af291e0e0&=&format=webp&quality=lossless&width=1080&height=1080)
 ## $find_clip
 **What it does**
 
@@ -1445,7 +1445,7 @@ $wowy [team_acronym] [names] [years] [season type] [common*-optional*]
 ```
 $wowy lal kobe bryant pau gasol 2009 ps
 ```
-![Wowy](https://media.discordapp.net/attachments/1088122768672948335/1155394149302947950/fig1.png?width=1753&height=1096)
+![Wowy](https://media.discordapp.net/attachments/1132368217436864582/1211390853747314698/LAL_200920092009fig1.png?ex=65ee06a6&is=65db91a6&hm=72a07c812ee9fb7edc5f0195cd5827b8944ff1b63913d6cb5f415fb2aac6daa8&=&format=webp&quality=lossless&width=1726&height=1078)
 
 ## $teamseason
 
@@ -1468,7 +1468,7 @@ $teamseason hou 2018 2019
 
 ```
 
-![Team Season](https://media.discordapp.net/attachments/1045134231707336764/1095821466597072906/fig1.png?width=1600&height=533)
+![Team Season](https://media.discordapp.net/attachments/1132368217436864582/1211390938518265886/fig1.png?ex=65ee06ba&is=65db91ba&hm=a01ceb683a8459426417b4239d677bfb3d923264cb1fdd838461d21e6e26c612&=&format=webp&quality=lossless&width=1800&height=600)
 
 
 ## $goalcont
