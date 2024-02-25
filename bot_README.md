@@ -308,7 +308,7 @@ $shotmap [firstname] [lastname] [season] [endseason] ps
 $shotmap tracy mcgrady 2004
 
 ```
-![ShotMap](https://media.discordapp.net/attachments/1088122768672948335/1211385417966817290/Tracy_McGrady_2003-04_RS.png?ex=65ee0196&is=65db8c96&hm=7ba1f531e813862323df08970467762f6146e7fb04223b54f306391a76620d56&=&format=webp&quality=lossless&width=606&height=525)
+![ShotMap](https://media.discordapp.net/attachments/1088122768672948335/1211385417966817290/Tracy_McGrady_2003-04_RS.png?ex=65ee0196&is=65db8c96&hm=7ba1f531e813862323df08970467762f6146e7fb04223b54f306391a76620d56&=&format=webp&quality=lossless&width=1212&height=1050)
 
 ## $shotchange
 **What it does**
@@ -763,7 +763,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-[playspread2](https://media.discordapp.net/attachments/1045134231707336764/1190324940931604550/BOS20242024Falsescatter_spread2.png?ex=65a1637d&is=658eee7d&hm=653bdee9fb1c864d7adba7b10d05f00eed8dbdc831ed9bd7e4f8c00f47f0f8e7&=&format=webp&quality=lossless&width=1686&height=1123)
+[playspread2](https://media.discordapp.net/attachments/1132368217436864582/1211388578450641007/BOS20242024Falsescatter_spread2.png?ex=65ee0487&is=65db8f87&hm=f97ad015b3ed20eb5be577da18f13dd7d6f0f358d568f6b82fd43ed7a4cb1533&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $dplayspread
 **What it does**
@@ -817,7 +817,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-[dplayspread2](https://media.discordapp.net/attachments/1045134231707336764/1190325327843577977/BOS20242024Falsedscatter_spread2.png?ex=65a163d9&is=658eeed9&hm=7802a8719d433a2dd6ca4790f56fc73d67b0555e832f78bd136260a27c69aae8&=&format=webp&quality=lossless&width=1686&height=1123)
+[dplayspread2](https://media.discordapp.net/attachments/1132368217436864582/1211388740937982085/BOS20242024Falsedscatter_spread2.png?ex=65ee04ae&is=65db8fae&hm=389255e7740d3292dc16fc50837c82e19fb32fe14c2e0b54fe9014775ac2371a&=&format=webp&quality=lossless&width=1620&height=1080)
 
 
 ## $threespread
@@ -879,8 +879,7 @@ $picks team
 $picks okc
 
 ```
-![Future Firsts](https://media.discordapp.net/attachments/1045134231707336764/1121977636344836106/0page.png?width=2036&height=1145)
-![Future Seconds](https://media.discordapp.net/attachments/1045134231707336764/1121977641835180083/1page.png?width=2036&height=1145)
+![Future Firsts](https://media.discordapp.net/attachments/1132368217436864582/1211388874228760677/0page.png?ex=65ee04ce&is=65db8fce&hm=4b956564b2596520a439fa17c43693ade7142e113ff5e7fe054d6fdb5c396c02&=&format=webp&quality=lossless&width=924&height=1078)
 
 ## $books
 **What it does**
