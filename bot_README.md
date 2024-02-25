@@ -683,7 +683,7 @@ $teamthrees den 2023 ps
 ```
 
 
-![teamthrees](https://media.discordapp.net/attachments/1088122768672948335/1176657130896506910/DEN20232023True.png?ex=656faa59&is=655d3559&hm=d0387959bf296efabafb8a38cda7d18fe2150bb505f10b15cd9c202132cf3363&=&width=1339&height=1080)
+![teamthrees](https://media.discordapp.net/attachments/1132368217436864582/1211389674124214322/DEN20232023Trueteamthrees.png?ex=65ee058c&is=65db908c&hm=72cb84d14eeb69d63e12fde04896d9f18010bbff2df097c0e8f9a878b02e7f98&=&format=webp&quality=lossless&width=1339&height=1080)
 
 ## $oppthrees
 **What it does**
@@ -708,7 +708,7 @@ $oppthrees mil 2023 ps
 
 ```
 
-![oppthrees](https://media.discordapp.net/attachments/1154859219896516679/1179852631145971823/MIL20232023True.png?ex=657b4a63&is=6568d563&hm=a22fa45d5c4b509102aaafec67e4a1431c689cf5ed9f713475e0b3d42be8a7b0&=&format=webp&quality=lossless&width=1393&height=1123)
+![oppthrees](https://media.discordapp.net/attachments/1132368217436864582/1211389763744174202/MIL20232023True.png?ex=65ee05a2&is=65db90a2&hm=c0efcd589dc8b260d6b7ad34c6708bf79f003b708ab30e145eeea3a6a4806300&=&format=webp&quality=lossless&width=1339&height=1080)
 
 ## $playspread
 **What it does**
@@ -843,7 +843,7 @@ $threespread tor 2023
 ```
 
 
-![threespread](https://media.discordapp.net/attachments/617877313534558208/1183882853935743027/TOR20232023Falsethreespread.png?ex=6589f3d3&is=65777ed3&hm=9402f5b6fd5b7d947e72ca87b3c7753ba3ebb9345e0ae7707f930df5e324576d&=&format=webp&quality=lossless&width=1511&height=1079)
+![threespread](https://media.discordapp.net/attachments/1132368217436864582/1211389546655129650/TOR20232023Falsethreespread.png?ex=65ee056e&is=65db906e&hm=9b712c4bcd34236f76f33456b541d1a44a3842b2a367ed2ec7e8ca7aeedad69c&=&format=webp&quality=lossless&width=1512&height=1080)
 
 ## $matchups
 **What it does**
@@ -861,7 +861,7 @@ $matchups bos 2024
 ```
 
 
-![Matchups](https://media.discordapp.net/attachments/1042176198832308387/1206306235079463032/BOS2024Falsematchups.png?ex=65db873a&is=65c9123a&hm=351eea4cc11d96972e580735a4160776139a74d9a5bf16b6454ea563845930a5&=&format=webp&quality=lossless&width=1728&height=1080)
+![Matchups](https://media.discordapp.net/attachments/1132368217436864582/1211390039389376625/BOS2024Falsematchups.png?ex=65ee05e3&is=65db90e3&hm=8e5c67c9d90c65fa0aff2b4c1e3f6d5de11f81b83eaed8421f933c7e8bdadaf9&=&format=webp&quality=lossless&width=1728&height=1080)
 ## $picks
 **What it does**
 
@@ -1490,4 +1490,4 @@ $goalcont name start_year end_year
 $goalcont lionel messi 2019
 
 ```
-![goalcont](https://media.discordapp.net/attachments/1154859219896516679/1180690505240162464/lionel_messi20192019scoring.jpg?ex=657e56b8&is=656be1b8&hm=05451d999b0576b32822e198eb5aee39a7f396d48387d43f7b37c1ac5ed183f7&=&format=webp&width=1573&height=1123)
+![goalcont](https://media.discordapp.net/attachments/1132368217436864582/1211390139159412746/lionel_messi20192019scoring.jpg?ex=65ee05fb&is=65db90fb&hm=a9d0ba2a9bf66bbf7311de6afccd3d7c2bdf5e5359217d0f9a7644cfa2c55e2c&=&format=webp&width=1512&height=1080)
