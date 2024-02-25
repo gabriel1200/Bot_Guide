@@ -424,7 +424,7 @@ $teamshots den 2023
 ```
 
 
-![Teamshots](https://media.discordapp.net/attachments/1088122768672948335/1211385909249843250/Denver_Nuggets_2022-23_RS.png?ex=65ee020b&is=65db8d0b&hm=b43cd8a1e3ba93309f3106bf22db1d1aabb05bd6fdc90d8293e5a356540fddf3&=&format=webp&quality=lossless&width=606&height=525)
+![Teamshots](https://media.discordapp.net/attachments/1088122768672948335/1211385909249843250/Denver_Nuggets_2022-23_RS.png?ex=65ee020b&is=65db8d0b&hm=b43cd8a1e3ba93309f3106bf22db1d1aabb05bd6fdc90d8293e5a356540fddf3&=&format=webp&quality=lossless&width=1243&height=1078)
 
 
 ## $teamshotd
@@ -920,7 +920,7 @@ $price team year
 $price tor 2019
 
 ```
-![Price](https://media.discordapp.net/attachments/617877313534558208/1154505049909772360/tor2019price.png?width=1600&height=1066)
+![Price](https://media.discordapp.net/attachments/1132368217436864582/1211387635185090670/gsw2015price.png?ex=65ee03a6&is=65db8ea6&hm=b0538cc8401a8526dc7435be5ff552cd4ae653447cb58d13ff8083a9e4d1e302&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $contracts
 **What it does**
@@ -960,7 +960,7 @@ $salary team year
 $price gsw 2015
 
 ```
-![Salary](https://media.discordapp.net/attachments/617877313534558208/1154237655836528740/gsw2015salary.png?width=1600&height=1066)
+![Salary](https://media.discordapp.net/attachments/1132368217436864582/1211387468792860693/gsw2015salary.png?ex=65ee037f&is=65db8e7f&hm=716dc3ec7a5692d98ddbd8dc591cfc37a2b2ddb46e48e31e338c48fa72c31916&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $series
 **What it does**
@@ -998,7 +998,7 @@ $rim year ps[optional]
 $rim 2023
 
 ```
-![Rim](https://media.discordapp.net/attachments/1045134231707336764/1108451023950975046/fig1.png?width=1471&height=1104)
+![Rim](https://media.discordapp.net/attachments/1132368217436864582/1211387209123627028/2023fig1.png?ex=65ee0341&is=65db8e41&hm=95c431b1937b3b829788b29034fea8a55a7afe78eea8a81431a935801554aae3&=&format=webp&quality=lossless&width=699&height=525)
 
 ## $playleader
 **What it does**
@@ -1019,7 +1019,7 @@ $playleader playtype year ps[optional]
 $playleader iso 2023
 
 ```
-![Playleader](https://media.discordapp.net/attachments/617877313534558208/1104049949160767590/fig1.png?width=1784&height=1070)
+![Playleader](https://media.discordapp.net/attachments/1132368217436864582/1211387370381778954/Regular_Season_Isolation2023fig1.png?ex=65ee0367&is=65db8e67&hm=b3613dc969944024d49eb966503c789c8907a82f3a6e5c2e87f815db2f73384e&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $spread
 **What it does**
@@ -1197,7 +1197,7 @@ $teamplay gsw 2015
 
 
 ```
-![Team Playtypes](https://media.discordapp.net/attachments/617877313534558208/1135937332416086178/team_playtype.jpg?width=1754&height=1096)
+![Team Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1211387907114532934/Golden_State_Warriors_201520152015team_playtype.jpg?ex=65ee03e7&is=65db8ee7&hm=32cfd0c5cbc369ebeaece75361f8879128521b5d6b5110e2213be7fcd4c48aa2&=&format=webp&width=1726&height=1078)
 
 ## $teamplayd
 **What it does**
@@ -1225,7 +1225,7 @@ $teamplayd gsw 2022
 
 
 ```
-![Team Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1186429461571321996/Golden_State_Warriors_2022Defense20222022team_playtyped.jpg?ex=6593378a&is=6580c28a&hm=7b6a4c1eadf73277dfc766d9a6c08541c456d6d33129bce8bb3c481b735c8a19&=&format=webp&width=1727&height=1079)
+![Team Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1211387983073124393/Golden_State_WarriorsDEF_202220222022team_playtyped.jpg?ex=65ee03f9&is=65db8ef9&hm=5750b2f636ae3b4e6026d667804b5e3aa56e074f89c5839a7d830be7a84cd500&=&format=webp&width=1726&height=1078)
 
 ## $tracking
 **What it does**
