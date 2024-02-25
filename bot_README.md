@@ -218,7 +218,7 @@ $dribbleshot [firstname] [lastname] [season] [endseason] ps
 $dribbleshot joel embiid 2021 2023
 
 ```
-![dribbleshot](https://media.discordapp.net/attachments/1088122768672948335/1172252673316233296/joel_embiiddribbles.jpg?ex=655fa460&is=654d2f60&hm=2a3aef385b2e1ec4b141fd0023a4f4463962bf328df3dd72c58148cd6bceaf56&=&width=1620&height=1080)
+![dribbleshot](https://media.discordapp.net/attachments/1132368217436864582/1211390258512527500/joel_embiid20212023dribbles.jpg?ex=65ee0618&is=65db9118&hm=f6a2bc01ff5b16a46d24171299f3c5a28b4da86b7b0867b250679862323af5af&=&format=webp&width=1620&height=1080)
 
 ## $jumpshot
 
