@@ -107,7 +107,7 @@ $trending [firstname] [lastname] [season] [ps]
 $trending stephen curry 15
 
 ```
-![trending](https://media.discordapp.net/attachments/1132368217436864582/1186169050733215814/stephen_curry15generaltrending.jpg?ex=65924503&is=657fd003&hm=ed80a01b2a31802c84142862514d19cf7b2aa9adf4b54c9b0cd9421023d51844&=&format=webp&width=1349&height=1079)
+![trending](https://media.discordapp.net/attachments/1088122768672948335/1211384947135479938/stephen_curry15generaltrending.jpg?ex=65ee0125&is=65db8c25&hm=4186358cca506fbb7ea3fe31773e6eed7472be4f0b751c54d3fb1959304dae63&=&format=webp&width=1350&height=1080)
 ## $playmake
 **What it does**
 
@@ -132,7 +132,7 @@ $playmake [firstname] [lastname] [season] [ps]
 $playmake lebron james 2015 2017 ps
 
 ```
-![playmake](https://media.discordapp.net/attachments/1132368217436864582/1145944467883442197/playmakelebron_james.jpg?width=1094&height=1094)
+![playmake](https://media.discordapp.net/attachments/1088122768672948335/1211385079084093511/playmakelebron_james.jpg?ex=65ee0145&is=65db8c45&hm=9de5ecfc4802b8debe15caed73c8ea51081b93bc6df39cf2ba673bd2eb080c8f&=&format=webp&width=1080&height=1080)
 
 ## $scoring
 **What it does**
@@ -278,7 +278,7 @@ $shotzone [firstname] [lastname] [season] [endseason] ps
 $shotzone shai gilgeous-alexander 2024
 
 ```
-![dribbleshot](https://media.discordapp.net/attachments/1088122768672948335/1183141650638323762/shai_gilgeous-alexander20242024shotzone.jpg?ex=65874187&is=6574cc87&hm=5f682c6fd26c7cc1e33878b72040ae4bda1fe57d42978424ee8e1e378ac3f343&=&format=webp&width=1686&height=1123)
+![shotzone](https://media.discordapp.net/attachments/1088122768672948335/1211385273775161404/shai_gilgeous-alexander20242024shotzone.jpg?ex=65ee0173&is=65db8c73&hm=68fa91deb1b48dc0d73e684a288b6aa34bc11a7613491cbbb1e076065a579c36&=&format=webp&width=1620&height=1080)
 
 ## $shotmap
 **What it does**
@@ -308,7 +308,7 @@ $shotmap [firstname] [lastname] [season] [endseason] ps
 $shotmap tracy mcgrady 2004
 
 ```
-![ShotMap](https://media.discordapp.net/attachments/1154859219896516679/1161834246080577666/Tracy_McGrady_2003-04_RS.png?ex=6539bd76&is=65274876&hm=8b890310ee0e6548e651c73af2075a4b500f78b09464a2b98f5c04e10f46fa68&=&width=1262&height=1096)
+![ShotMap](https://media.discordapp.net/attachments/1088122768672948335/1211385417966817290/Tracy_McGrady_2003-04_RS.png?ex=65ee0196&is=65db8c96&hm=7ba1f531e813862323df08970467762f6146e7fb04223b54f306391a76620d56&=&format=webp&quality=lossless&width=606&height=525)
 
 ## $shotchange
 **What it does**
@@ -335,10 +335,10 @@ $shotchange stephen curry 2021
 
 
 
-![Shotmap](https://media.discordapp.net/attachments/1154859219896516679/1161834422501384243/Stephen_Curry_On_2020-21_RS.png?ex=6539bda0&is=652748a0&hm=4a6c1e772d3c2da911a88cc12181503483ea2e2df7a632ffc7d4af44e5cc13d0&=&width=1262&height=1096)
+![Shotchange](https://media.discordapp.net/attachments/1088122768672948335/1211385531704016916/Stephen_Curry_On_2020-21_RS.png?ex=65ee01b1&is=65db8cb1&hm=11acd390f97454234c85ed8a9e26842157725a67dff9fb946f57edbf0d57d48f&=&format=webp&quality=lossless&width=1243&height=1078)
 
 
-![Shotmap](https://media.discordapp.net/attachments/1154859219896516679/1161834423268950206/Stephen_Curry_Off_2020-21_RS.png?ex=6539bda0&is=652748a0&hm=3c0378851d09b6775e3b52332a57675b869b033c9ec35379244806c70c0b4b66&=&width=1262&height=1096)
+![Shotmap](https://media.discordapp.net/attachments/1088122768672948335/1211385532173787157/Stephen_Curry_Off_2020-21_RS.png?ex=65ee01b1&is=65db8cb1&hm=d13fd5ece77255f6f65c73b3ea0ed18a21d942d2b60414aab9bef28eae4db1fb&=&format=webp&quality=lossless&width=1243&height=1078)
 
 ## $shotchange2
 **What it does**
@@ -365,7 +365,7 @@ $shotchange2 stephen curry 2021
 
 
 
-![Shotchange2](https://media.discordapp.net/attachments/1154859219896516679/1161834947196223538/Stephen_Curry_On_2020-21_RS_Player_Excluded.png?ex=6539be1d&is=6527491d&hm=ad6a15088e09435143d5d1280b414abb80c75f50acca23b1125c93990b8651d8&=&width=1224&height=1096)
+![Shotchange2](https://media.discordapp.net/attachments/1088122768672948335/1211385723500888124/Stephen_Curry_On_2020-21_RS_Player_Excluded.png?ex=65ee01de&is=65db8cde&hm=bf30221b0427fbc4e1ac3e8ad549d717d4efc934ed1a6ba0d1a7cfa137659696&=&format=webp&quality=lossless&width=1206&height=1080)
 
 
 ![Shotchange2(https://media.discordapp.net/attachments/1154859219896516679/1161834423268950206/Stephen_Curry_Off_2020-21_RS.png?ex=6539bda0&is=652748a0&hm=3c0378851d09b6775e3b52332a57675b869b033c9ec35379244806c70c0b4b66&=&width=1262&height=1096
@@ -395,10 +395,10 @@ $shotdefense draymond green 2017 ps
 
 
 
-![Shotmap](https://media.discordapp.net/attachments/1154859219896516679/1161835566686552064/Draymond_Green_On_Defense2016-17_PS.png?ex=6539beb0&is=652749b0&hm=83e10278846b15d5fae207e109e3b1eb89c221d7b2bd13e2216e917e4747a578&=&width=1262&height=1096)
+![Shotchange2](https://media.discordapp.net/attachments/1154859219896516679/1161835566686552064/Draymond_Green_On_Defense2016-17_PS.png?ex=6539beb0&is=652749b0&hm=83e10278846b15d5fae207e109e3b1eb89c221d7b2bd13e2216e917e4747a578&=&width=1262&height=1096)
 
 
-![Shotmap](https://media.discordapp.net/attachments/1154859219896516679/1161835567168892958/Draymond_Green_Off_Defense2016-17_PS.png?ex=6539beb1&is=652749b1&hm=f73e976b146d31520c33a1b89bf7a8b96c001929438cf8cd376166cae1703c70&=&width=1262&height=1096)
+![Shotchange2](https://media.discordapp.net/attachments/1154859219896516679/1161835567168892958/Draymond_Green_Off_Defense2016-17_PS.png?ex=6539beb1&is=652749b1&hm=f73e976b146d31520c33a1b89bf7a8b96c001929438cf8cd376166cae1703c70&=&width=1262&height=1096)
 
 
 ## $teamshots
@@ -424,7 +424,7 @@ $teamshots den 2023
 ```
 
 
-![Shotmap](https://media.discordapp.net/attachments/1154859219896516679/1161835742616621106/Denver_Nuggets_2022-23_RS.png?ex=6539beda&is=652749da&hm=109c1b93ee7a3abddeca4da97584effab2d8217a4022bcc15611f18b11cfe2b9&=&width=1262&height=1096)
+![Teamshots](https://media.discordapp.net/attachments/1088122768672948335/1211385909249843250/Denver_Nuggets_2022-23_RS.png?ex=65ee020b&is=65db8d0b&hm=b43cd8a1e3ba93309f3106bf22db1d1aabb05bd6fdc90d8293e5a356540fddf3&=&format=webp&quality=lossless&width=606&height=525)
 
 
 ## $teamshotd
@@ -450,7 +450,7 @@ $teamshotd lal 2023 ps
 ```
 
 
-![Shotmap](https://media.discordapp.net/attachments/1154859219896516679/1161835879661318264/Los_Angeles_Lakers_2022-23_PS_Defense.png?ex=6539befb&is=652749fb&hm=e74fdf0d9061e6b459ca78a9f4b6359a7ce9a3f105320b1d4b2d81c70ff62faf&=&width=1224&height=1096)
+![Teamshotd](https://media.discordapp.net/attachments/1088122768672948335/1211386112120193094/Los_Angeles_Lakers_2022-23_PS_Defense.png?ex=65ee023b&is=65db8d3b&hm=dfcee8af1dc8eff37b4a737733df4afbb9d2ad386262afcbd1241220ea383462&=&format=webp&quality=lossless&width=1206&height=1080)
 ## $flow
 **What it does**
 
@@ -470,7 +470,7 @@ $flow dal 2023
 ```
 
 
-![Flow](https://media.discordapp.net/attachments/1042176198832308387/1116166661028974592/chord.png?width=992&height=1072)
+![Flow](https://media.discordapp.net/attachments/1088122768672948335/1211386220328779797/chord.png?ex=65ee0255&is=65db8d55&hm=20e88db7bfff76a39768d24133150a806ee76f672bc53d722502fe22f632b44f&=&format=webp&quality=lossless&width=475&height=525)
 
 ## $rotation
 **What it does**
