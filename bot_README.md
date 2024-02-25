@@ -1256,7 +1256,7 @@ $tracking stephen curry 2017 2019 ps
 
 
 ```
-![Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1137064883821756497/playtype.jpg?width=1480&height=1096)
+![Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1211380706735951912/stephencurry2016playtype.jpg?ex=65edfd32&is=65db8832&hm=0f27c85a4c1b9565d1f7d9f21d6bbd8bd7f4e785a81a38006c243717f5b1bc9b&=&format=webp&width=1620&height=1080)
 
 ## $player_card
 **What it does**
