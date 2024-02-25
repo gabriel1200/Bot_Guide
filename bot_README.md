@@ -763,7 +763,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-[playspread2](https://media.discordapp.net/attachments/1132368217436864582/1211390484908478515/BOS20242024Falsescatter_spread2.png?ex=65ee064e&is=65db914e&hm=2b4779c8fb06221a77471740048e8e37171cf050a6c1d193ee852cadcf60eea8&=&format=webp&quality=lossless&width=1620&height=1080)
+![playspread2man](https://media.discordapp.net/attachments/1132368217436864582/1211390484908478515/BOS20242024Falsescatter_spread2.png?ex=65ee064e&is=65db914e&hm=2b4779c8fb06221a77471740048e8e37171cf050a6c1d193ee852cadcf60eea8&=&format=webp&quality=lossless&width=1620&height=1080)
 
 ## $dplayspread
 **What it does**
@@ -817,7 +817,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-[dplayspread2](https://media.discordapp.net/attachments/1132368217436864582/1211388740937982085/BOS20242024Falsedscatter_spread2.png?ex=65ee04ae&is=65db8fae&hm=389255e7740d3292dc16fc50837c82e19fb32fe14c2e0b54fe9014775ac2371a&=&format=webp&quality=lossless&width=1620&height=1080)
+![dplayspread2](https://media.discordapp.net/attachments/1132368217436864582/1211388740937982085/BOS20242024Falsedscatter_spread2.png?ex=65ee04ae&is=65db8fae&hm=389255e7740d3292dc16fc50837c82e19fb32fe14c2e0b54fe9014775ac2371a&=&format=webp&quality=lossless&width=1620&height=1080)
 
 
 ## $threespread
@@ -1422,7 +1422,7 @@ $season [firstname] [lastname] [start year] [end year *-optional*]
 ```
 $season michael jordan 1992 1993
 ```
-![Season](https://media.discordapp.net/attachments/1045134231707336764/1095821055802748979/fig1.png?width=1600&height=800)
+![Season](https://media.discordapp.net/attachments/1132368217436864582/1211392115435769966/fig1.png?ex=65ee07d2&is=65db92d2&hm=b08eac19882c741691e749166f6dd9a91e54d981cb92526cb81c38090038f869&=&format=webp&quality=lossless&width=1800&height=900)
 
 
 ## $wowy
