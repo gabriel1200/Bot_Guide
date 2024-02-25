@@ -786,7 +786,6 @@ $dplayspread bos 2022
 
 ```
 
-![dplayspread](https://media.discordapp.net/attachments/1132368217436864582/1186460519872344125/BOS20222022Falsedplayspread.png?ex=65935477&is=6580df77&hm=f3c49cebaad665282152b57592b2d71a08f62627d35dd06af56bc7777753ff37&=&format=webp&quality=lossless&width=1511&height=1079)
 ![2playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265540192587797/BOS20222022Falsedscatter_spread.png?ex=6599e585&is=65877085&hm=c19f9fa877bf46b7205bbb51407dad9e7923cdd690be4b8f0e2f6960a9240d57&=&format=webp&quality=lossless&width=1735&height=1080)
 
 
