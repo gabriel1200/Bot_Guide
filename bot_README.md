@@ -159,7 +159,7 @@ $scoring [firstname] [lastname] [season] [ps]
 $scoring joel embiid 2021 2023
 
 ```
-![scoring](https://media.discordapp.net/attachments/1088122768672948335/1173756534321324194/joel_embiidscoring.jpg?ex=65651cf5&is=6552a7f5&hm=f94b5cdbce5531cd4725a5d273dd7748d274c5911bdb86bb96213772850d8ea3&=&width=1512&height=1080)
+![scoring](https://media.discordapp.net/attachments/1088122768672948335/1216156819991429271/joel_embiidscoring.jpg?ex=65ff5d4c&is=65ece84c&hm=65dc1a34d20860b994a56676c704713d731e56407df44728473df5c81897a61d&=&format=webp&width=1512&height=1080)
 
 ## $scoring team
 
@@ -249,7 +249,7 @@ $jumpshot [firstname] [lastname] [season] [endseason] ps
 $jumpshot stephen curry 2017 2019 ps
 
 ```
-![jumpshot](https://media.discordapp.net/attachments/1154859219896516679/1185422130117095555/stephen_curry20172019dribblesjumpshot.jpg?ex=658f8d63&is=657d1863&hm=6a864b6a67c795cd1947d60a05d2f8a1e5e0306a285f4b3d7f1f6f09a0b37445&=&format=webp&width=1619&height=1079)
+![jumpshot](https://media.discordapp.net/attachments/1088122768672948335/1216157138410410084/stephen_curry20172019dribblesjumpshot.jpg?ex=65ff5d98&is=65ece898&hm=3f12e825dc63f93b7e0a24c427791d1d8971102bc729d49bcb34356bd7f93ac6&=&format=webp&width=1620&height=1080)
 
 ## $shotzone
 **What it does**
@@ -732,8 +732,9 @@ $playspread den 2023
 ```
 
 
-![playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265282091888660/DEN20232023Falsescatter_spread.png?ex=6599e548&is=65877048&hm=e8e8602365e3b359dd65bafe95d1cb34709fa673bee60fcdb2c354d23268be7c&=&format=webp&quality=lossless&width=1735&height=1080)
+![playspread](https://media.discordapp.net/attachments/1088122768672948335/1216156918863761569/DEN20232023Falseplayspread.png?ex=65ff5d64&is=65ece864&hm=038ae9c94550e819058ecbb5f8491edea168482cd9e88d5eaf1c12c469cba644&=&format=webp&quality=lossless&width=1512&height=1080)
 
+![playspread_image2](https://media.discordapp.net/attachments/1088122768672948335/1216156919161552927/DEN20232023Falsescatter_spread.png?ex=65ff5d64&is=65ece864&hm=b170c21f34c29ad6a6ccbcb21b1a67aa0e8d9feaaa015214d6fa095bfd6581ae&=&format=webp&quality=lossless&width=1735&height=1080)
 
 ## $playspread2
 
