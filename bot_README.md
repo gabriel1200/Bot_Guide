@@ -481,7 +481,8 @@ $flow dal 2023
 ```
 
 
-![Flow](https://media.discordapp.net/attachments/1088122768672948335/1211386220328779797/chord.png?ex=65ee0255&is=65db8d55&hm=20e88db7bfff76a39768d24133150a806ee76f672bc53d722502fe22f632b44f&=&format=webp&quality=lossless&width=950&height=1050)
+![flow](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/flow.jpg)
+
 
 ## $rotation
 **What it does**
@@ -726,9 +727,10 @@ $playspread den 2023
 ```
 
 
-![playspread](https://media.discordapp.net/attachments/1088122768672948335/1216156918863761569/DEN20232023Falseplayspread.png?ex=65ff5d64&is=65ece864&hm=038ae9c94550e819058ecbb5f8491edea168482cd9e88d5eaf1c12c469cba644&=&format=webp&quality=lossless&width=1512&height=1080)
+![playspread1](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playspread1.jpg)
 
-![playspread_image2](https://media.discordapp.net/attachments/1088122768672948335/1216156919161552927/DEN20232023Falsescatter_spread.png?ex=65ff5d64&is=65ece864&hm=b170c21f34c29ad6a6ccbcb21b1a67aa0e8d9feaaa015214d6fa095bfd6581ae&=&format=webp&quality=lossless&width=1735&height=1080)
+![playspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playspread2.jpg)
+
 
 ## $playspread2
 
@@ -758,7 +760,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-![playspread2man](https://media.discordapp.net/attachments/1132368217436864582/1211390484908478515/BOS20242024Falsescatter_spread2.png?ex=65ee064e&is=65db914e&hm=2b4779c8fb06221a77471740048e8e37171cf050a6c1d193ee852cadcf60eea8&=&format=webp&quality=lossless&width=1620&height=1080)
+![playspreadv2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playspreadv2.jpg)
 
 ## $dplayspread
 **What it does**
@@ -781,8 +783,9 @@ $dplayspread bos 2022
 
 ```
 
-![2playspread](https://media.discordapp.net/attachments/1132368217436864582/1188265540192587797/BOS20222022Falsedscatter_spread.png?ex=6599e585&is=65877085&hm=c19f9fa877bf46b7205bbb51407dad9e7923cdd690be4b8f0e2f6960a9240d57&=&format=webp&quality=lossless&width=1735&height=1080)
+![dplayspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/dplayspread.jpg)
 
+![dplayspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/dplayspread2.jpg)
 
 ## $playspread2
 
@@ -812,8 +815,7 @@ $playspread2 [teamacronym] [start_year] [end_year] [ps]
 $playspread2 bos 2024
 
 ```
-![dplayspread2](https://media.discordapp.net/attachments/1132368217436864582/1211388740937982085/BOS20242024Falsedscatter_spread2.png?ex=65ee04ae&is=65db8fae&hm=389255e7740d3292dc16fc50837c82e19fb32fe14c2e0b54fe9014775ac2371a&=&format=webp&quality=lossless&width=1620&height=1080)
-
+![dplayspreadv2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/dplayspreadv2.jpg)
 
 ## $threespread
 **What it does**
@@ -838,7 +840,7 @@ $threespread tor 2023
 ```
 
 
-![threespread](https://media.discordapp.net/attachments/1132368217436864582/1211389546655129650/TOR20232023Falsethreespread.png?ex=65ee056e&is=65db906e&hm=9b712c4bcd34236f76f33456b541d1a44a3842b2a367ed2ec7e8ca7aeedad69c&=&format=webp&quality=lossless&width=1512&height=1080)
+![threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/threespread.jpg)
 
 ## $matchups
 **What it does**
@@ -856,7 +858,8 @@ $matchups bos 2024
 ```
 
 
-![Matchups](https://media.discordapp.net/attachments/1132368217436864582/1211390039389376625/BOS2024Falsematchups.png?ex=65ee05e3&is=65db90e3&hm=8e5c67c9d90c65fa0aff2b4c1e3f6d5de11f81b83eaed8421f933c7e8bdadaf9&=&format=webp&quality=lossless&width=1728&height=1080)
+![matchups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/matchups.jpg)
+
 ## $picks
 **What it does**
 
@@ -874,7 +877,7 @@ $picks team
 $picks okc
 
 ```
-![Future Firsts](https://media.discordapp.net/attachments/1132368217436864582/1211388874228760677/0page.png?ex=65ee04ce&is=65db8fce&hm=4b956564b2596520a439fa17c43693ade7142e113ff5e7fe054d6fdb5c396c02&=&format=webp&quality=lossless&width=924&height=1078)
+![Picks 1](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/picks1.jpg)
 
 ## $books
 **What it does**
@@ -892,7 +895,7 @@ $books team
 $books pho
 
 ```
-![books](https://media.discordapp.net/attachments/1019642087299358733/1193993741405519972/PHObooks.jpg?ex=65aebc53&is=659c4753&hm=d168bf0a91d885ce861c78d5a8438868b3007ce056c5f228931abe05ac6c9387&=&format=webp&width=1123&height=1123)
+![books](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/books.jpg)
 
 ## $price
 **What it does**
@@ -913,7 +916,7 @@ $price team year
 $price tor 2019
 
 ```
-![Price](https://media.discordapp.net/attachments/1132368217436864582/1211387635185090670/gsw2015price.png?ex=65ee03a6&is=65db8ea6&hm=b0538cc8401a8526dc7435be5ff552cd4ae653447cb58d13ff8083a9e4d1e302&=&format=webp&quality=lossless&width=1620&height=1080)
+![price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/price.jpg)
 
 ## $contracts
 **What it does**
@@ -932,7 +935,7 @@ $contracts team year
 $contracts den 2023
 
 ```
-![Contracts](https://media.discordapp.net/attachments/1088122768672948335/1154446132836052992/den2023contracts.png?width=1600&height=1066)
+![contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/contracts.jpg)
 
 ## $salary
 **What it does**
@@ -953,7 +956,7 @@ $salary team year
 $salary gsw 2015
 
 ```
-![Salary](https://media.discordapp.net/attachments/1132368217436864582/1211387468792860693/gsw2015salary.png?ex=65ee037f&is=65db8e7f&hm=716dc3ec7a5692d98ddbd8dc591cfc37a2b2ddb46e48e31e338c48fa72c31916&=&format=webp&quality=lossless&width=1620&height=1080)
+![salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/salary.jpg)
 
 ## $series
 **What it does**
@@ -971,7 +974,7 @@ $trending [firstname] [lastname] [opponent]
 ```
 $series stephen curry 2022 bos
 ```
-![trending](https://media.discordapp.net/attachments/1154859219896516679/1187873758338359388/stephen_curry20222022series.jpg?ex=659878a5&is=658603a5&hm=67c5db7476b3b5ad7c7893db42e21ec23e2c7ad8358a9c9e8276884ebab5c4c2&=&format=webp&width=1350&height=1080)
+![series](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/series.jpg)
 
 ## $rim
 **What it does**
@@ -991,7 +994,7 @@ $rim year ps[optional]
 $rim 2023
 
 ```
-![Rim](https://media.discordapp.net/attachments/1132368217436864582/1211387209123627028/2023fig1.png?ex=65ee0341&is=65db8e41&hm=95c431b1937b3b829788b29034fea8a55a7afe78eea8a81431a935801554aae3&=&format=webp&quality=lossless&width=699&height=525)
+![rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/rim.jpg)
 
 ## $playleader
 **What it does**
