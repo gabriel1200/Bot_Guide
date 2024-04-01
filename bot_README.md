@@ -500,7 +500,8 @@ $rotation mia 2023-06-01
 ```
 
 
-![Rotation](https://media.discordapp.net/attachments/1132368217436864582/1211380888596906094/fig1.png?ex=65edfd5e&is=65db885e&hm=15e4a2e4e8a5533a52d3d4620593695e401ad96a83abf127024fac79ea3c5892&=&format=webp&quality=lossless&width=1726&height=1078)
+![rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/rotation.jpg)
+
 
 
 ## $shift
@@ -522,7 +523,8 @@ $shift player1_lastname player2_lastname season(s) ps-optional
 $shift davis reaves 2023 ps
 
 ```
-![Shift](https://media.discordapp.net/attachments/1132368217436864582/1211380976257863790/Anthony_DavisAustin_ReavesLALfig1.png?ex=65edfd73&is=65db8873&hm=3a7f26a91adc274bcc04a6595cdd27ee79221d7e96a1d8e4869fb79190ab0a2e&=&format=webp&quality=lossless&width=1620&height=1080)
+![shift(https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shift.jpg)
+
 ## $teamshift
 
 **What it does**
@@ -539,8 +541,7 @@ $teamshift team firstname lastname season(s) ps-optional
 $teamshift mia lebron james 2012 2013 2014 ps
 
 ```
-![TeamShift](https://media.discordapp.net/attachments/1132368217436864582/1211391411115786280/lebron_james20122014fig1.png?ex=65ee072a&is=65db922a&hm=708762eb445a5851ac68829bd1f0b4d806cb64ecfb094696d68ff53ca0d59b1f&=&format=webp&quality=lossless&width=1726&height=1078)
-
+![teamshift](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamshift.jpg)
 
 ## $rapm
 
@@ -559,8 +560,9 @@ $rapm team firstname lastname start_year end_year[if multiseason]
 $rapm gsw stephen curry 2015 2019
 
 ```
-![orapm](https://media.discordapp.net/attachments/1154859219896516679/1190372292866355360/GSW20152019stephen_curryorapm.png?ex=65a18f96&is=658f1a96&hm=b2b17c6700f751c230fa7df59081fc7b8d98d7a6c3ffc4c47724fedad40a3fa2&=&format=webp&quality=lossless&width=936&height=1123)
-![drapm](https://media.discordapp.net/attachments/1154859219896516679/1190372295013847142/GSW20152019stephen_currydrapm.png?ex=65a18f97&is=658f1a97&hm=d822b0702b5dab9d50c5b398300aa8f5115bf46b0e7c47930f9e74c80692880a&=&format=webp&quality=lossless&width=936&height=1123)
+![opram](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/orapm.jpg)
+![dpram](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/drapm.jpg)
+
 
 ## $lebron
 
@@ -578,29 +580,10 @@ $lebron team firstname lastname start_year end_year[if multiseason ]
 $lebron gsw stephen curry 2015 2016
 
 ```
-![olebron](https://media.discordapp.net/attachments/1132368217436864582/1192959134144938034/GSW20152016stephen_curryolebron.png?ex=65aaf8c5&is=659883c5&hm=3dfe2cfff8844609f7f5e95324532bc2e0f29aa2518432b14eeae59d4ee5fc88&=&format=webp&quality=lossless&width=898&height=1123)
-![dlebron](https://media.discordapp.net/attachments/1132368217436864582/1192959134400786462/GSW20152016stephen_currydlebron.png?ex=65aaf8c5&is=659883c5&hm=8fc2f41b79aa68d066e4982a055a03c1af09a51561b3e66985476dd23ca74684&=&format=webp&quality=lossless&width=898&height=1123)
-## $oldshift
+![olebron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/olebron.jpg)
+![dlebron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/dlebron.jpg)
 
-**What it does**
 
-Shows a players output with and without another player. [PBP stats.](http://www.pbpstats.com/wowy-combos/nba)
-
-Shows a players output accross various dimensions with and without another player. [PBP stats.](http://www.pbpstats.com/wowy-combos/nba)
-Users select two players, the season(s) they wish to include, and chose betwee regular season and post season data.  
-Span: 2001 - Present
-
-**How to use it**
-
-$oldshift [team_acronym] firstname lastname first name lastname [season] ps-optional
-
-**Examples**
-
-```
-$oldshift cle darius garland jarrett allen 2023
-
-```
-![OldShift](https://media.discordapp.net/attachments/1042176198832308387/1096940938523328612/fig1.png?width=1606&height=1070)
 ## $teamleader
 **What it does**
 
@@ -620,7 +603,7 @@ $teamleader playtype year ps[optional]
 $teamleader iso 2023
 
 ```
-![TeamLeader](https://media.discordapp.net/attachments/1132368217436864582/1211392334386700369/Regular_Season_Isolation.png?ex=65ee0807&is=65db9307&hm=aeeef351df692bc76b7156969eb1a0e6561c3ca58a1eeb79e307005e437717ea&=&format=webp&quality=lossless&width=1620&height=1080)
+![teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamleader.jpg)
 
 ## $teamleaderd
 **What it does**
@@ -641,7 +624,7 @@ $teamleaderd playtype year ps[optional]
 $teamleaderd iso 2024
 
 ```
-![teamLeaderd](https://media.discordapp.net/attachments/1132368217436864582/1186428821369532536/Regular_Season_Isolation_Defense_.png?ex=659336f1&is=6580c1f1&hm=b0e834b55bfa208a14347f34b03fe9aaee268d22fd98dba0f297b61937206a09&=&format=webp&quality=lossless&width=1619&height=1079)
+![teamleaderd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamleaderd.jpg)
 
 ## $threepoint
 **What it does**
@@ -668,7 +651,7 @@ $threepoint [firstname] [lastname] [season] [ps]
 $threepoint chris paul 2022 2023
 
 ```
-![threepoint](https://media.discordapp.net/attachments/617888289801895966/1152352109648412803/threes.jpg?width=1645&height=1096)
+![threepoint](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/threepoint.jpg)
 
 ## $teamthrees
 **What it does**
@@ -694,7 +677,7 @@ $teamthrees den 2023 ps
 ```
 
 
-![teamthrees](https://media.discordapp.net/attachments/1132368217436864582/1211389674124214322/DEN20232023Trueteamthrees.png?ex=65ee058c&is=65db908c&hm=72cb84d14eeb69d63e12fde04896d9f18010bbff2df097c0e8f9a878b02e7f98&=&format=webp&quality=lossless&width=1339&height=1080)
+![teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamthrees.jpg)
 
 ## $oppthrees
 **What it does**
@@ -719,7 +702,7 @@ $oppthrees mil 2023 ps
 
 ```
 
-![oppthrees](https://media.discordapp.net/attachments/1132368217436864582/1211389763744174202/MIL20232023True.png?ex=65ee05a2&is=65db90a2&hm=c0efcd589dc8b260d6b7ad34c6708bf79f003b708ab30e145eeea3a6a4806300&=&format=webp&quality=lossless&width=1339&height=1080)
+![oppthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/oppthrees.jpg)
 
 ## $playspread
 **What it does**
