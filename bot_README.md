@@ -1015,7 +1015,8 @@ $playleader playtype year ps[optional]
 $playleader iso 2023
 
 ```
-![Playleader](https://media.discordapp.net/attachments/1132368217436864582/1211387370381778954/Regular_Season_Isolation2023fig1.png?ex=65ee0367&is=65db8e67&hm=b3613dc969944024d49eb966503c789c8907a82f3a6e5c2e87f815db2f73384e&=&format=webp&quality=lossless&width=1620&height=1080)
+![playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playleader.jpg)
+
 
 ## $spread
 **What it does**
@@ -1043,7 +1044,10 @@ $spread [firstname] [lastname] [season] [ps]
 ```
 $spread kevin durant 2012 2013
 ```
-![Spread](https://media.discordapp.net/attachments/1132368217436864582/1205564345547886672/kevin_durant20122013player_spread.jpg?ex=65d8d44a&is=65c65f4a&hm=d2c353e6191e60d51893c5f60820d1f0d078af097ea83477873233aab4bdcaec&=&format=webp&width=1620&height=1080)
+
+![spread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/spread.jpg)
+
+
 ## $spread2
 **What it does**
 
@@ -1076,7 +1080,8 @@ $spread2 [firstname] [lastname] [season] [ps]
 ```
 $spread2 kevin durant 2014
 ```
-![Spread2](https://media.discordapp.net/attachments/1132368217436864582/1224446332643704966/kevin_durant20142014player_spread2.jpg?ex=661d8582&is=660b1082&hm=5edbcac2738dc1b38bb72f83380be8550abe6d4f2556df8cc964f3ee315381ef&=&format=webp&width=1686&height=1123)
+![spread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/spread2.jpg)
+
 
 
 ## $playtype
@@ -1110,7 +1115,7 @@ $playtype james harden 2019 2020 ps
 $playtype james harden 2019 2022
 
 ```
-![Playtypes](https://media.discordapp.net/attachments/1088122768672948335/1211381571907747840/James_Harden_2019-202220192022playtype.jpg?ex=65edfe01&is=65db8901&hm=5687a4e260fdf08b15d26ff440c4e8f20a7e9f45004dfa646a739566c0fc2a70&=&format=webp&width=1726&height=1078)
+![playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playtype.jpg)
 
 ## $playstyle
 **What it does**
@@ -1146,7 +1151,8 @@ $playstyle [firstname] [lastname] [season] [ps]
 $playstyle josh hart 2023
 
 ```
-![Playstyle](https://media.discordapp.net/attachments/1088122768672948335/1211381701268217957/Josh_Hart_202320232023playtype.jpg?ex=65edfe1f&is=65db891f&hm=e429d31c9b1488075b46b1b8af2a903495b3583b379d38fff699b3b4a42f283c&=&format=webp&width=1726&height=1078)
+![playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playstyle.jpg)
+
 ## $teambron
 **What it does**
 
@@ -1163,7 +1169,7 @@ $teambron [team] [year] [minutecutoff-optional]
 $teambron cle 2016
 
 ```
-![Team O-BRON](https://media.discordapp.net/attachments/1088122768672948335/1211381815613333565/obronCLE2016.png?ex=65edfe3b&is=65db893b&hm=4d1af7f52b235e7bce86674b62aeaa45a1ef2afd683a363b7cb9976c97ff13e3&=&format=webp&quality=lossless&width=1350&height=1080)
+![teambron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teambron.jpg)
 
 ## $teambrond
 **What it does**
@@ -1180,7 +1186,9 @@ $teambrond [team] [year] [minutecutoff-optional]
 ```
 $teambrond min 2024
 ```
-![Team D-BRON](https://media.discordapp.net/attachments/1132368217436864582/1211382128248627250/obronMIN2024.png?ex=65edfe85&is=65db8985&hm=d489099734c7ae5a2505d5afd574f48d298bc64fabcc7ec438e9c700471ff75e&=&format=webp&quality=lossless&width=1350&height=1080)
+
+![teambrond](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teambrond.jpg)
+
 
 ## $rotations
 **What it does**
@@ -1198,7 +1206,7 @@ $rotation team year [start_date]-optional [end_date]-optional [ps]-optional
 $rotations gsw 2024 01/30 2/20
 
 ```
-![Rotations](https://media.discordapp.net/attachments/1088122768672948335/1209575952581922876/rotationsgsw2024.png?ex=65e76c63&is=65d4f763&hm=51fe2cd4852b1286fae2000a81011d20169efa7d72190ee90245db39f7a638c2&=&format=webp&quality=lossless&width=787&height=525)
+![rotations](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/rotations.jpg)
 
 ## $teamplay
 **What it does**
@@ -1226,7 +1234,8 @@ $teamplay gsw 2015
 
 
 ```
-![Team Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1211387907114532934/Golden_State_Warriors_201520152015team_playtype.jpg?ex=65ee03e7&is=65db8ee7&hm=32cfd0c5cbc369ebeaece75361f8879128521b5d6b5110e2213be7fcd4c48aa2&=&format=webp&width=1726&height=1078)
+![teamplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamplay.jpg)
+
 
 ## $teamplayd
 **What it does**
@@ -1254,7 +1263,8 @@ $teamplayd gsw 2022
 
 
 ```
-![Team Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1211387983073124393/Golden_State_WarriorsDEF_202220222022team_playtyped.jpg?ex=65ee03f9&is=65db8ef9&hm=5750b2f636ae3b4e6026d667804b5e3aa56e074f89c5839a7d830be7a84cd500&=&format=webp&width=1726&height=1078)
+![teamplayd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamplayd.jpg)
+
 
 ## $tracking
 **What it does**
@@ -1284,7 +1294,7 @@ $tracking stephen curry 2017 2019 ps
 
 
 ```
-![Playtypes](https://media.discordapp.net/attachments/1132368217436864582/1211380706735951912/stephencurry2016playtype.jpg?ex=65edfd32&is=65db8832&hm=0f27c85a4c1b9565d1f7d9f21d6bbd8bd7f4e785a81a38006c243717f5b1bc9b&=&format=webp&width=1620&height=1080)
+![tracking](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/tracking.jpg)
 
 ## $player_card
 **What it does**
@@ -1301,7 +1311,8 @@ $[firstname] [lastname] [end year] [span]
 ```
 $player_card joel embiid 2022 3
 ```
-![Player Card ](https://media.discordapp.net/attachments/1132368217436864582/1211391125160460339/fig1.png?ex=65ee06e6&is=65db91e6&hm=78fbe09cc5e322fe5640852f0e2d030d17a6d4557b3a965e01ebf01eb059fcc7&=&format=webp&quality=lossless&width=1080&height=1080)
+![player_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/player_card.jpg)
+
 ## $team_card
 **What it does**
 
@@ -1317,7 +1328,8 @@ $[team_acronym] [end_year] [span]
 ```
 $team_card mil 2022 4
 ```
-![Team Card](https://media.discordapp.net/attachments/1132368217436864582/1211391036262191175/fig1.png?ex=65ee06d1&is=65db91d1&hm=ff9bf98f9d0109648a4fecbe5883a5d19c0ba8ff4e1293762793fe0af291e0e0&=&format=webp&quality=lossless&width=1080&height=1080)
+![team_card](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/team_card.jpg)
+
 ## $find_clip
 **What it does**
 
@@ -1453,7 +1465,8 @@ $season [firstname] [lastname] [start year] [end year *-optional*]
 ```
 $season michael jordan 1992 1993
 ```
-![Season](https://media.discordapp.net/attachments/1132368217436864582/1211392115435769966/fig1.png?ex=65ee07d2&is=65db92d2&hm=b08eac19882c741691e749166f6dd9a91e54d981cb92526cb81c38090038f869&=&format=webp&quality=lossless&width=1800&height=900)
+![season](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/season.jpg)
+
 
 
 ## $wowy
@@ -1476,7 +1489,7 @@ $wowy [team_acronym] [names] [years] [season type] [common*-optional*]
 ```
 $wowy lal kobe bryant pau gasol 2009 ps
 ```
-![Wowy](https://media.discordapp.net/attachments/1132368217436864582/1211390853747314698/LAL_200920092009fig1.png?ex=65ee06a6&is=65db91a6&hm=72a07c812ee9fb7edc5f0195cd5827b8944ff1b63913d6cb5f415fb2aac6daa8&=&format=webp&quality=lossless&width=1726&height=1078)
+![wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/wowy.jpg)
 
 ## $teamseason
 
@@ -1499,7 +1512,7 @@ $teamseason hou 2018 2019
 
 ```
 
-![Team Season](https://media.discordapp.net/attachments/1132368217436864582/1211390938518265886/fig1.png?ex=65ee06ba&is=65db91ba&hm=a01ceb683a8459426417b4239d677bfb3d923264cb1fdd838461d21e6e26c612&=&format=webp&quality=lossless&width=1800&height=600)
+![teamseason](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamseason.jpg)
 
 
 ## $goalcont
@@ -1521,4 +1534,4 @@ $goalcont name start_year end_year
 $goalcont lionel messi 2019
 
 ```
-![goalcont](https://media.discordapp.net/attachments/1132368217436864582/1211390139159412746/lionel_messi20192019scoring.jpg?ex=65ee05fb&is=65db90fb&hm=a9d0ba2a9bf66bbf7311de6afccd3d7c2bdf5e5359217d0f9a7644cfa2c55e2c&=&format=webp&width=1512&height=1080)
+![goalcont](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/goalcont.jpg)
