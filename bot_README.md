@@ -976,7 +976,7 @@ $trending [firstname] [lastname] [opponent]
 
 **Example**
 ```
-$series stephen curry bos
+$series stephen curry 2022 bos
 ```
 ![trending](https://media.discordapp.net/attachments/1154859219896516679/1187873758338359388/stephen_curry20222022series.jpg?ex=659878a5&is=658603a5&hm=67c5db7476b3b5ad7c7893db42e21ec23e2c7ad8358a9c9e8276884ebab5c4c2&=&format=webp&width=1350&height=1080)
 
