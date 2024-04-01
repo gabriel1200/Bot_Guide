@@ -108,7 +108,7 @@ $trending [firstname] [lastname] [season] [ps]
 $trending stephen curry 15
 
 ```
-[[bot_images/trending.jpg]]
+![trending](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/trending.jpg)
 ## $playmake
 **What it does**
 
