@@ -1080,7 +1080,7 @@ $spread2 [firstname] [lastname] [season] [ps]
 ```
 $spread2 kevin durant 2014
 ```
-![Spread2]https://media.discordapp.net/attachments/1132368217436864582/1224446332643704966/kevin_durant20142014player_spread2.jpg?ex=661d8582&is=660b1082&hm=5edbcac2738dc1b38bb72f83380be8550abe6d4f2556df8cc964f3ee315381ef&=&format=webp&width=1686&height=1123)
+![Spread2](https://media.discordapp.net/attachments/1132368217436864582/1224446332643704966/kevin_durant20142014player_spread2.jpg?ex=661d8582&is=660b1082&hm=5edbcac2738dc1b38bb72f83380be8550abe6d4f2556df8cc964f3ee315381ef&=&format=webp&width=1686&height=1123)
 
 
 ## $playtype
