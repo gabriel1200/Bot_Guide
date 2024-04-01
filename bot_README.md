@@ -339,11 +339,12 @@ $shotchange stephen curry 2021
 ```
 
 
+![shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotchange1.jpg)
 
-![Shotchange](https://media.discordapp.net/attachments/1088122768672948335/1211385531704016916/Stephen_Curry_On_2020-21_RS.png?ex=65ee01b1&is=65db8cb1&hm=11acd390f97454234c85ed8a9e26842157725a67dff9fb946f57edbf0d57d48f&=&format=webp&quality=lossless&width=1243&height=1078)
 
 
-![Shotmap](https://media.discordapp.net/attachments/1088122768672948335/1211385532173787157/Stephen_Curry_Off_2020-21_RS.png?ex=65ee01b1&is=65db8cb1&hm=d13fd5ece77255f6f65c73b3ea0ed18a21d942d2b60414aab9bef28eae4db1fb&=&format=webp&quality=lossless&width=1243&height=1078)
+![shotchange12](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotchange12.jpg)
+
 
 ## $shotchange2
 **What it does**
@@ -370,10 +371,12 @@ $shotchange2 stephen curry 2021
 
 
 
-![Shotchange2](https://media.discordapp.net/attachments/1088122768672948335/1211385723500888124/Stephen_Curry_On_2020-21_RS_Player_Excluded.png?ex=65ee01de&is=65db8cde&hm=bf30221b0427fbc4e1ac3e8ad549d717d4efc934ed1a6ba0d1a7cfa137659696&=&format=webp&quality=lossless&width=1206&height=1080)
+![shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotchange2.jpg)
 
 
-![Shotchange2(https://media.discordapp.net/attachments/1154859219896516679/1161834423268950206/Stephen_Curry_Off_2020-21_RS.png?ex=6539bda0&is=652748a0&hm=3c0378851d09b6775e3b52332a57675b869b033c9ec35379244806c70c0b4b66&=&width=1262&height=1096
+
+![shotchange22](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotchange22.jpg)
+
 
 ## $shotdefense
 **What it does**
@@ -400,10 +403,11 @@ $shotdefense draymond green 2017 ps
 
 
 
-![Shotchange2](https://media.discordapp.net/attachments/1154859219896516679/1161835566686552064/Draymond_Green_On_Defense2016-17_PS.png?ex=6539beb0&is=652749b0&hm=83e10278846b15d5fae207e109e3b1eb89c221d7b2bd13e2216e917e4747a578&=&width=1262&height=1096)
+![shotdefenseon](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotdefenseon.jpg)
 
 
-![Shotchange2](https://media.discordapp.net/attachments/1154859219896516679/1161835567168892958/Draymond_Green_Off_Defense2016-17_PS.png?ex=6539beb1&is=652749b1&hm=f73e976b146d31520c33a1b89bf7a8b96c001929438cf8cd376166cae1703c70&=&width=1262&height=1096)
+![shotdefenseoff](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotdefenseoff.jpg)
+
 
 
 ## $teamshots
@@ -429,7 +433,8 @@ $teamshots den 2023
 ```
 
 
-![Teamshots](https://media.discordapp.net/attachments/1088122768672948335/1211385909249843250/Denver_Nuggets_2022-23_RS.png?ex=65ee020b&is=65db8d0b&hm=b43cd8a1e3ba93309f3106bf22db1d1aabb05bd6fdc90d8293e5a356540fddf3&=&format=webp&quality=lossless&width=1243&height=1078)
+![teamshots](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamshots.jpg)
+
 
 
 ## $teamshotd
@@ -455,7 +460,8 @@ $teamshotd lal 2023 ps
 ```
 
 
-![Teamshotd](https://media.discordapp.net/attachments/1088122768672948335/1211386112120193094/Los_Angeles_Lakers_2022-23_PS_Defense.png?ex=65ee023b&is=65db8d3b&hm=dfcee8af1dc8eff37b4a737733df4afbb9d2ad386262afcbd1241220ea383462&=&format=webp&quality=lossless&width=1206&height=1080)
+![teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamshotd.jpg)
+
 ## $flow
 **What it does**
 
