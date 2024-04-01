@@ -133,7 +133,8 @@ $playmake [firstname] [lastname] [season] [ps]
 $playmake lebron james 2015 2017 ps
 
 ```
-![playmake](https://media.discordapp.net/attachments/1088122768672948335/1211385079084093511/playmakelebron_james.jpg?ex=65ee0145&is=65db8c45&hm=9de5ecfc4802b8debe15caed73c8ea51081b93bc6df39cf2ba673bd2eb080c8f&=&format=webp&width=1080&height=1080)
+![playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playmake.jpg)
+
 
 ## $scoring
 **What it does**
@@ -160,7 +161,8 @@ $scoring [firstname] [lastname] [season] [ps]
 $scoring joel embiid 2021 2023
 
 ```
-![scoring](https://media.discordapp.net/attachments/1088122768672948335/1216156819991429271/joel_embiidscoring.jpg?ex=65ff5d4c&is=65ece84c&hm=65dc1a34d20860b994a56676c704713d731e56407df44728473df5c81897a61d&=&format=webp&width=1512&height=1080)
+![scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/scoring.jpg)
+
 
 ## $scoring team
 
@@ -188,7 +190,8 @@ $scoring team team_acronym  [season] [ps]
 $scoring team gsw 2022 2023
 
 ```
-![scoring-team](https://media.discordapp.net/attachments/1132368217436864582/1180684813884215346/team_gswscoring.jpg?ex=657e516b&is=656bdc6b&hm=a485d37c9f7bac0743240e133830922110ba596360c723a95061323bb3dc70ef&=&format=webp&width=1573&height=1123)
+![scoring-team](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/scoring_team.jpg)
+
 
 ## $dribbleshot 
 
@@ -219,8 +222,7 @@ $dribbleshot [firstname] [lastname] [season] [endseason] ps
 $dribbleshot joel embiid 2021 2023
 
 ```
-![dribbleshot](https://media.discordapp.net/attachments/1132368217436864582/1211390258512527500/joel_embiid20212023dribbles.jpg?ex=65ee0618&is=65db9118&hm=f6a2bc01ff5b16a46d24171299f3c5a28b4da86b7b0867b250679862323af5af&=&format=webp&width=1620&height=1080)
-
+![dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/dribbleshot.jpg)
 ## $jumpshot
 
 **What it does**
