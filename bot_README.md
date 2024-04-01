@@ -252,7 +252,8 @@ $jumpshot [firstname] [lastname] [season] [endseason] ps
 $jumpshot stephen curry 2017 2019 ps
 
 ```
-![jumpshot](https://media.discordapp.net/attachments/1088122768672948335/1216157138410410084/stephen_curry20172019dribblesjumpshot.jpg?ex=65ff5d98&is=65ece898&hm=3f12e825dc63f93b7e0a24c427791d1d8971102bc729d49bcb34356bd7f93ac6&=&format=webp&width=1620&height=1080)
+![jumpshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/dribbleshot.jpg)
+
 
 ## $shotzone
 **What it does**
@@ -281,7 +282,8 @@ $shotzone [firstname] [lastname] [season] [endseason] ps
 $shotzone shai gilgeous-alexander 2024
 
 ```
-![shotzone](https://media.discordapp.net/attachments/1088122768672948335/1211385273775161404/shai_gilgeous-alexander20242024shotzone.jpg?ex=65ee0173&is=65db8c73&hm=68fa91deb1b48dc0d73e684a288b6aa34bc11a7613491cbbb1e076065a579c36&=&format=webp&width=1620&height=1080)
+![shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotzone.jpg)
+
 
 ## $shotmap
 **What it does**
@@ -311,7 +313,7 @@ $shotmap [firstname] [lastname] [season] [endseason] ps
 $shotmap tracy mcgrady 2004
 
 ```
-![ShotMap](https://media.discordapp.net/attachments/1088122768672948335/1211385417966817290/Tracy_McGrady_2003-04_RS.png?ex=65ee0196&is=65db8c96&hm=7ba1f531e813862323df08970467762f6146e7fb04223b54f306391a76620d56&=&format=webp&quality=lossless&width=1212&height=1050)
+![shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotmap.jpg)
 
 ## $shotchange
 **What it does**
