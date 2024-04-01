@@ -61,6 +61,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$find_clip](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#find_clip)
 - [$playerclips](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerclips)
 - [$spread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#spread)
+- [$spread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#spread2)
 - [$playtype](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playtype)
 - [$playstyle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playstyle)
 - [$playleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playleader)
@@ -1047,6 +1048,39 @@ $spread [firstname] [lastname] [season] [ps]
 $spread kevin durant 2012 2013
 ```
 ![Spread](https://media.discordapp.net/attachments/1132368217436864582/1205564345547886672/kevin_durant20122013player_spread.jpg?ex=65d8d44a&is=65c65f4a&hm=d2c353e6191e60d51893c5f60820d1f0d078af097ea83477873233aab4bdcaec&=&format=webp&width=1620&height=1080)
+## $spread2
+**What it does**
+
+Shares the PPP & Frequencies of the following combined synergy categories, in scatter plot form.
+On Ball: Iso + PR Ball Hanlder + Post
+
+Play Finishing: PR Roll Man + Spot Up+ Putbacks + Cuts
+
+Off Motion : Hand off + Off Screen 
+
+Transition
+
+Available for the Regular Season & PostSeason. Inclusion cutoffs are an average of one play type per game, and at least 20 games played per season during the selected regular season span or at least 4 games played for the selected post season span.
+
+Span: 2014 - Present
+
+**How to use it**
+
+$spread2 [firstname] [lastname] [season] 
+
+or
+
+$spread2 firstname] [lastname] [start_season] [end_season]
+
+or
+
+$spread2 [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$spread2 kevin durant 2014
+```
+![Spread2]https://media.discordapp.net/attachments/1132368217436864582/1224446332643704966/kevin_durant20142014player_spread2.jpg?ex=661d8582&is=660b1082&hm=5edbcac2738dc1b38bb72f83380be8550abe6d4f2556df8cc964f3ee315381ef&=&format=webp&width=1686&height=1123)
 
 
 ## $playtype
