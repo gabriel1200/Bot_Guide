@@ -957,7 +957,7 @@ $salary team year
 **Example**
 
 ```
-$price gsw 2015
+$salary gsw 2015
 
 ```
 ![Salary](https://media.discordapp.net/attachments/1132368217436864582/1211387468792860693/gsw2015salary.png?ex=65ee037f&is=65db8e7f&hm=716dc3ec7a5692d98ddbd8dc591cfc37a2b2ddb46e48e31e338c48fa72c31916&=&format=webp&quality=lossless&width=1620&height=1080)
