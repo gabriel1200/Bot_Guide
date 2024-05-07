@@ -24,6 +24,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$dribbleshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dribbleshot)
 - [$jumpshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#jumpshot)
 - [$shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotzone)
+- [$hustle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#hustle)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
@@ -48,6 +49,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$price](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#price)
 - [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
+- [$payspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#payspread)
 - [$series](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#series)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
@@ -283,6 +285,36 @@ $shotzone shai gilgeous-alexander 2024
 
 ```
 ![shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotzone.jpg)
+
+## $hustle
+**What it does**
+
+Compares a players output in a variety of 'hustle' metrics (distance, box outs, charges drawn etc) to other players in the league. 
+
+Span: 2018 - Present
+**How to use it**
+
+$hustle [firstname] [lastname] [season]
+
+or
+
+$hustle [firstname] [lastname] [season] [endseason]
+
+or
+
+$hustle [firstname] [lastname] [season] ps
+
+or
+
+$hustle [firstname] [lastname] [season] [endseason] ps
+
+**Example**
+```
+$hustle josh hart 2024
+
+```
+![shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/hustle.jpg)
+
 
 
 ## $shotmap
@@ -958,6 +990,25 @@ $salary gsw 2015
 ```
 ![salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/salary.jpg)
 
+## $salary
+**What it does**
+
+A variant of the price command. Visualizes a teams payroll vs the WAC(Wins Above Contract) provided by the teams players. The command displays two graphs due to the historical asymmetry of NBA pay scales. The first showing players making _below_ 10% of the cap, the second showing players making _over_ 10% of the cap.
+
+Span: 2010 - Present
+
+**How to use it**
+
+$salary team year
+
+**Example**
+
+```
+$payspread okc 2024
+
+```
+![payspread1](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/payspread1.jpg)
+![payspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/payspread2.jpg)
 ## $series
 **What it does**
 
