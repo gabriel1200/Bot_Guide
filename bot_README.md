@@ -990,16 +990,16 @@ $salary gsw 2015
 ```
 ![salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/salary.jpg)
 
-## $salary
+## $payspread
 **What it does**
 
-A variant of the price command. Visualizes a teams payroll vs the WAC(Wins Above Contract) provided by the teams players. The command displays two graphs due to the historical asymmetry of NBA pay scales. The first showing players making _below_ 10% of the cap, the second showing players making _over_ 10% of the cap.
+A variant of the price command. Visualizes team payroll vs the WAC(Wins Above Contract) provided by teams players. The command displays two graphs due to the historical asymmetry of NBA pay scales. The first showing players making _below_ 10% of the cap, the second showing players making _over_ 10% of the cap.
 
 Span: 2010 - Present
 
 **How to use it**
 
-$salary team year
+$payspread team year
 
 **Example**
 
@@ -1009,6 +1009,7 @@ $payspread okc 2024
 ```
 ![payspread1](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/payspread1.jpg)
 ![payspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/payspread2.jpg)
+
 ## $series
 **What it does**
 
