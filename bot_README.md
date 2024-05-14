@@ -31,6 +31,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$shotdefense](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$teamshots](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamshotd)
+- [$assistmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#assistmap)
 - [$flow](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#flow)
 - [$rotation](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rotation)
 - [$teamleader](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamleader)
@@ -493,6 +494,31 @@ $teamshotd lal 2023 ps
 
 
 ![teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/teamshotd.jpg)
+
+## $assistmap
+**What it does**
+
+Creates a Goldsberry style shotmap of all field goals _assisted_ by a player during the selected timespan.
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$assistmap [firstname] [lastname] [season]
+
+or
+
+$assistmap [firstname] [lastname] [season] ps
+
+**Example**
+```
+$assistmap nikola jokic 2022 2024
+
+```
+
+
+![teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/assistmap.jpg)
 
 ## $flow
 **What it does**
