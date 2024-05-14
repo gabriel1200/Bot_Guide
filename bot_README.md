@@ -518,7 +518,7 @@ $assistmap nikola jokic 2022 2024
 ```
 
 
-![teamshotd](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/assistmap.jpg)
+![assistmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/assist_map.jpg)
 
 ## $flow
 **What it does**
