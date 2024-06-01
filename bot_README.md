@@ -377,7 +377,7 @@ $wshotmap [firstname] [lastname] [season] [endseason] ps
 $wshotmap breanna stewart 2023
 
 ```
-![wshotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/wshotmap.jpg)
+![wshotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/w_shotmap.jpg)
 
 ## $shotchange
 **What it does**
