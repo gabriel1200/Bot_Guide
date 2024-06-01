@@ -26,6 +26,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotzone)
 - [$hustle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#hustle)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
+- [$wshotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wshotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotchange2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
 - [$shotdefense](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
@@ -347,6 +348,36 @@ $shotmap tracy mcgrady 2004
 
 ```
 ![shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/shotmap.jpg)
+
+## $wshotmap
+**What it does**
+
+Creates a Goldsberry style shotmap of a WNBA player season. 
+
+Span: 1998 - Present
+
+
+**How to use it**
+
+$wshotmap [firstname] [lastname] [season]
+
+or
+
+$wshotmap [firstname] [lastname] [season] [endseason]
+
+or
+
+$wshotmap [firstname] [lastname] [season] ps
+
+or
+
+$wshotmap [firstname] [lastname] [season] [endseason] ps
+**Example**
+```
+$wshotmap breanna stewart 2023
+
+```
+![wshotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/wshotmap.jpg)
 
 ## $shotchange
 **What it does**
