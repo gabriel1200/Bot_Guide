@@ -52,6 +52,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
 - [$payspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#payspread)
+- [$howmuch](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#howmuch)
 - [$series](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#series)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
@@ -1066,6 +1067,24 @@ $payspread okc 2024
 ```
 ![payspread1](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/payspread1.jpg)
 ![payspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/payspread2.jpg)
+
+## $howmuch
+**What it does**
+Converts the inputted salary( annual amount & number of years) into cap%, then compares to other players who made a similar % of the cap.
+
+Span: 2010 - Present
+
+**How to use it**
+
+$howmuch salary[in millions] years
+
+**Example**
+
+```
+$howmuch 31 4
+
+```
+![howmuch](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/howmuch.jpg)
 
 ## $series
 **What it does**
