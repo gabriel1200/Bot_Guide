@@ -18,6 +18,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 ## Commands
 
 - [$trending](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#trending)
+- [$careerbron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#careerbron)
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
 - [$scoring](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring)
 - [$scoring team](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#scoring-team)
@@ -114,6 +115,30 @@ $trending stephen curry 15
 
 ```
 ![trending](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/trending.jpg)
+
+
+## $careerbron
+**What it does**
+
+Visualizes a player's O-LEBRON/D-LEBRON vs other players in the same role. Data goes back to the 2009-10 NBA season.
+
+**How to use it**
+
+$careerbron 0 firstname lastname
+
+or
+
+$careerbron d firstname lastname
+
+
+
+**Example**
+```
+$careerbron o lebron james
+
+```
+![careerbron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/careerbron.jpg)
+
 ## $playmake
 **What it does**
 
