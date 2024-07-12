@@ -41,6 +41,8 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$teamthrees](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#teamthrees)
 - [$threespread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#threespread)
 - [$matchups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#matchups)
+- [$lineups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#lineups)
+- [$pairings](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#pairings)
 - [$playspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread)
 - [$playspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread2)
 - [$dplayspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread)
@@ -975,6 +977,44 @@ $matchups bos 2024
 
 ![matchups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/matchups.jpg)
 
+
+
+## $lineups
+**What it does**
+Visualizes the net rating of a teams most played 5 man lineup combinations
+Span: 2008 - Present
+
+**How to use it**
+
+$lineups [team_acronym] [season] ps-optional
+
+**Example**
+```
+$llineups bos 2024
+
+```
+
+
+![lineups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/lineups.jpg)
+
+## $pairings
+**What it does**
+Visualizes the net rating of the most common lineups during the selected season and featuring the selected player (2,3,4 or 5 man options allowed, default is 2 man) 
+Span: 2008 - Present
+
+**How to use it**
+
+$pairings [first_name] [last_name] [year] groupcount-optional ps-optional
+
+**Example**
+```
+$pairings pascal siakam 2024 ps
+```
+
+
+![pairings](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/pairings.jpg)
+
+## $picks
 ## $picks
 **What it does**
 
