@@ -349,7 +349,7 @@ $hustle josh hart 2024
 ## $ballhog
 **What it does**
 
-Compares the passing tendencies and on ball time of the selected player or team to the rest of the league.
+Displays the passing delta(passes made - passes received) and seconds per touch of the selected player(or team) to the rest of the league in scatterplotform.
 
 Span: 2014 - Present
 **How to use it**
