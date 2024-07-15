@@ -26,6 +26,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$jumpshot](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#jumpshot)
 - [$shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotzone)
 - [$hustle](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#hustle)
+- [$ballhog](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#ballhog)
 - [$shotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotmap)
 - [$wshotmap](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#wshotmap)
 - [$shotchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#shotchange)
@@ -345,6 +346,28 @@ $hustle josh hart 2024
 ```
 ![shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/hustle.jpg)
 
+## $ballhog
+**What it does**
+
+Compares the passing tendencies and on ball time of the selected player or team to the rest of the league.
+
+Span: 2014 - Present
+**How to use it**
+
+$ballhog [firstname] [lastname] [season] ps -optional
+
+or
+
+$ballhog team [team_acronymn] [start_year] [end_year] ps-optional
+
+
+
+**Example**
+```
+$ballhog team min 2024
+
+```
+![shotzone](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/ballhog.jpg)
 
 
 ## $shotmap
