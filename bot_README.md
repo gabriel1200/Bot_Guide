@@ -57,6 +57,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
 - [$payspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#payspread)
 - [$howmuch](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#howmuch)
+- [$salarycomp](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salarycomp)
 - [$series](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#series)
 - [$rim](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#rim)
 - [$next_games](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#next_games)
@@ -1174,16 +1175,34 @@ $howmuch 31 4
 ```
 ![howmuch](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/howmuch.jpg)
 
+
+## $salarycomp
+**What it does**
+Uses a players previous season to a) classify the player and b) provide points of comparison in terms of estimated impact(LEBRON) and contract value add vs players in the same role
+
+
+
+**How to use it**
+
+$salarycomp first_name last_name
+
+**Example**
+
+```
+$salarycomp isaiah joe
+```
+![salarycomp](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/salarycomp.jpg)
+
 ## $series
 **What it does**
 
 Visualizes a player's performance in the selected playoff series via various metrics vs other players in those playoffs, as well as their averages during that span.
 
-Span: 2014 -2025
+Span: 2001 -2025
 
 **How to use it**
 
-$trending [firstname] [lastname] [opponent] 
+$series [firstname] [lastname] [opponent] 
 
 
 **Example**
