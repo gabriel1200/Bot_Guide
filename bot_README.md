@@ -56,6 +56,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$contracts](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#contracts)
 - [$salary](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salary)
 - [$payspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#payspread)
+- [$playerpay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playerpay)
 - [$howmuch](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#howmuch)
 - [$salarycomp](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#salarycomp)
 - [$series](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#series)
@@ -1174,6 +1175,26 @@ $howmuch 31 4
 
 ```
 ![howmuch](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/howmuch.jpg)
+
+## $playerplay
+**What it does**
+Uses a scatter plot to display a players estimated surplus value WAC(Wins Above Contract via LEBRON) alongsider their salary(in cap% terms), then contrasts them to every player that shares their role classification(provided by bballindex)
+
+If the player makes under 10% of the cap (ie within rookie scale pay range) they are cmopared to other players making under 10%. If they making over 10% of the cap, the inverse is true.
+
+Span: 2010 - Present
+
+**How to use it**
+
+$playerpay first_name last_name [d]-optional
+
+**Example**
+
+```
+$playerpay scottie barnes 2024
+
+```
+![playerplay](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playerplay.jpg)
 
 
 ## $salarycomp
