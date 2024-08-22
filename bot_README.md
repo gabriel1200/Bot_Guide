@@ -1749,6 +1749,16 @@ $wowy lal kobe bryant pau gasol 2009 ps
 ```
 ![wowy](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/wowy.jpg)
 
+## $wowy
+
+**What it does**
+
+Identical usage to wowy, with the only difference being a filter for low leverage Minutes
+
+Span: 2013 - Present
+
+
+
 ## $teamseason
 
 **What it does**
