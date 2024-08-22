@@ -45,6 +45,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 - [$lineups](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#lineups)
 - [$pairings](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#pairings)
 - [$playspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread)
+- [$playchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playchange)
 - [$playspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playspread2)
 - [$dplayspread](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread)
 - [$dplayspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#dplayspread2)
@@ -872,6 +873,31 @@ $playspread den 2023
 ![playspread1](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playspread1.jpg)
 
 ![playspread2](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playspread2.jpg)
+
+## $playchange
+**What it does**
+Visualizes the change in the frequency and efficiency of teams' scoring attempts(according to synergy playtype) by year.
+
+Span: 2014 - Present
+
+
+**How to use it**
+
+$playchange [teamacronym] [year]
+
+or
+
+$playchange [teamacronym] [start_year] [end_year] [ps]
+
+**Example**
+```
+$playchange gsw 2014 2015
+
+```
+
+
+![playchange](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/playchange.jpg)
+
 
 
 ## $playspread2
