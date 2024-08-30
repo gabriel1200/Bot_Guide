@@ -16,7 +16,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 ```
 
 ## Commands
-
+- [$stats(https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#stats)
 - [$trending](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#trending)
 - [$careerbron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#careerbron)
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
@@ -94,6 +94,32 @@ https://www.patreon.com/ThinkingBasketball/
 
 ## Commands (Soccer)
 - [$goalcont](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#goalcont)
+## $stats
+**What it does**
+
+Visualizes a players advanced box score statistics for the selected season span. Available for the Regular Season and Post Season.
+
+Span: 1974 - Present
+
+**How to use it**
+
+$stats [firstname] [lastname] [graphtype] 
+
+or
+
+$stats [firstname] [lastname] [start_season] [end_season]
+
+or
+
+$stats [firstname] [lastname] [season] [ps]
+
+**Example**
+```
+$stats magic johnson 1989
+
+```
+![stats](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_images/stats.jpg)
+
 ## $trending
 **What it does**
 
