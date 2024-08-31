@@ -16,7 +16,7 @@ $find_clip [team] [Month/Day] [Quarter] [Minutes:Seconds]
 ```
 
 ## Commands
-- [$stats(https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#stats)
+- [$stats](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#stats)
 - [$trending](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#trending)
 - [$careerbron](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#careerbron)
 - [$playmake](https://github.com/gabriel1200/Bot_Guide/blob/main/bot_README.md#playmake)
